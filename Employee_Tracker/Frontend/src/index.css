@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: white;
+}
+
+.icon-input {
+    background-image: url('icon1.svg');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 20px 20px;
+    /* Adjust based on your icon size */
+    padding-left: 40px;
+    /* Adjust based on your icon size */
+}
+
+
+.icon2-input {
+    background-image: url('icon2.svg');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 20px 20px;
+    /* Adjust based on your icon size */
+    padding-left: 40px;
+    /* Adjust based on your icon size */
+}
+
+.icon3-input {
+    background-image: url('icon3.svg');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    background-size: 20px 20px;
+    /* Adjust based on your icon size */
+    padding-left: 40px;
+    /* Adjust based on your icon size */
+}
