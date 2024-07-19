@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a matrix?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A linear data structure",
+      "b) A hierarchical data structure",
+      "c) A rectangular array of numbers or symbols",
+      "d) A collection of nodes and edges"
+    ]
+  },
+  {
+    "question": "2. What is the dimension of a matrix with m rows and n columns?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) m x n",
+      "b) n x m",
+      "c) m + n",
+      "d) m - n"
+    ]
+  },
+  {
+    "question": "3. What is the main diagonal of a matrix?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) The top-left to bottom-right diagonal",
+      "b) The diagonal from the top-left to the bottom-right",
+      "c) The diagonal from the bottom-left to the top-right",
+      "d) The diagonal containing all elements with the same value"
+    ]
+  },
+  {
+    "question": "4. What is the transpose of a matrix?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) A copy of the matrix",
+      "b) A matrix with the same dimensions",
+      "c) A matrix with all elements doubled",
+      "d) A matrix where rows and columns are swapped"
+    ]
+  },
+  {
+    "question": "5. Which operation is used to add two matrices of the same dimensions?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Matrix addition",
+      "b) Matrix multiplication",
+      "c) Matrix subtraction",
+      "d) Matrix division"
+    ]
+  },
+  {
+    "question": "6. What is the identity matrix?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A matrix with all elements set to zero",
+      "b) A matrix with all elements set to one",
+      "c) A square matrix with ones on the main diagonal and zeros elsewhere",
+      "d) A matrix with equal number of rows and columns"
+    ]
+  },
+  {
+    "question": "7. What is the determinant of a matrix?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) The sum of the elements in the main diagonal",
+      "b) A scalar value that can be computed for square matrices",
+      "c) The product of the elements in the main diagonal",
+      "d) The number of rows or columns in the matrix"
+    ]
+  },
+  {
+    "question": "8. Which operation is used to multiply a matrix by a scalar?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Scalar multiplication",
+      "b) Matrix addition",
+      "c) Matrix subtraction",
+      "d) Matrix division"
+    ]
+  },
+  {
+    "question": "9. What is a square matrix?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) A matrix with all elements set to zero",
+      "b) A matrix with all elements set to one",
+      "c) A rectangular matrix",
+      "d) A matrix with equal number of rows and columns"
+    ]
+  },
+  {
+    "question": "10. What is the rank of a matrix?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) The maximum number of linearly independent rows or columns",
+      "b) The sum of the elements in the main diagonal",
+      "c) The number of rows or columns in the matrix",
+      "d) The product of the elements in the main diagonal"
+    ]
+  }
+]

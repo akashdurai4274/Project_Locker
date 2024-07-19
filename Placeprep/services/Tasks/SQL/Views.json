@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a view in a relational database?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) A virtual table that displays data from one or more tables",
+            "b) A physical table that stores data permanently",
+            "c) A collection of stored procedures",
+            "d) A collection of queries"
+        ]
+    },
+    {
+        "question": "2. What is the primary purpose of creating a view?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To delete existing data",
+            "b) To modify the structure of existing tables",
+            "c) To provide a customized representation of data",
+            "d) To insert new data into tables"
+        ]
+    },
+    {
+        "question": "3. Which of the following statements about views is true?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Views are always physically stored in the database",
+            "b) Views can only display data from a single table",
+            "c) Views cannot contain aggregate functions",
+            "d) Views can simplify complex queries and hide underlying data structures"
+        ]
+    },
+    {
+        "question": "4. What is the main benefit of using views?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Views improve database performance",
+            "b) Views provide a simplified and secure way to access data",
+            "c) Views require less storage space than tables",
+            "d) Views eliminate the need for SQL queries"
+        ]
+    },
+    {
+        "question": "5. Which SQL keyword is used to create a new view?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) CREATE",
+            "b) ALTER",
+            "c) DROP",
+            "d) SELECT"
+        ]
+    },
+    {
+        "question": "6. What is the purpose of the WITH CHECK OPTION clause when creating a view?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To specify the columns to be retrieved",
+            "b) To filter rows based on a specified condition",
+            "c) To ensure that only rows meeting the view's criteria can be inserted or updated",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "7. Which SQL keyword is used to modify the definition of an existing view?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) CREATE",
+            "b) ALTER",
+            "c) DROP",
+            "d) SELECT"
+        ]
+    },
+    {
+        "question": "8. What is the purpose of the DROP VIEW statement in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To create a new view",
+            "b) To modify the definition of an existing view",
+            "c) To retrieve data from a view",
+            "d) To remove an existing view"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the REPLACE VIEW statement in SQL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To modify the definition of an existing view or create a new view if it does not exist",
+            "b) To delete an existing view",
+            "c) To retrieve data from a view",
+            "d) To remove an existing view"
+        ]
+    },
+    {
+        "question": "10. Which SQL keyword is used to retrieve data from a view?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) CREATE",
+            "b) ALTER",
+            "c) SELECT",
+            "d) DROP"
+        ]
+    }
+]

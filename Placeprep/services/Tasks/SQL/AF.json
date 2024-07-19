@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are aggregate functions in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Functions that operate on individual rows of a table",
+            "b) Functions that modify table structure",
+            "c) Functions that perform data validation",
+            "d) Functions that operate on sets of rows and return a single value"
+        ]
+    },
+    {
+        "question": "2. Which of the following is an example of an aggregate function?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) SELECT",
+            "b) COUNT",
+            "c) WHERE",
+            "d) JOIN"
+        ]
+    },
+    {
+        "question": "3. What does the COUNT function do?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Counts the number of rows in a result set",
+            "b) Computes the average value of a column",
+            "c) Returns the minimum value in a column",
+            "d) Groups rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "4. Which aggregate function returns the average value of a numeric column?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) MIN",
+            "b) MAX",
+            "c) AVG",
+            "d) SUM"
+        ]
+    },
+    {
+        "question": "5. What does the SUM function do?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Returns the number of rows in a result set",
+            "b) Computes the average value of a column",
+            "c) Returns the minimum value in a column",
+            "d) Calculates the sum of values in a numeric column"
+        ]
+    },
+    {
+        "question": "6. Which aggregate function returns the highest value in a column?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) MIN",
+            "b) MAX",
+            "c) AVG",
+            "d) COUNT"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the GROUP BY clause in SQL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Groups rows that have the same values into summary rows",
+            "b) Filters rows based on a specified condition",
+            "c) Joins tables based on a specified condition",
+            "d) Orders the result set in ascending or descending order"
+        ]
+    },
+    {
+        "question": "8. Which aggregate function returns the lowest value in a column?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) MIN",
+            "b) MAX",
+            "c) AVG",
+            "d) SUM"
+        ]
+    },
+    {
+        "question": "9. What does the HAVING clause do?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Filters rows based on a specified condition",
+            "b) Joins tables based on a specified condition",
+            "c) Orders the result set in ascending or descending order",
+            "d) Filters groups based on a specified condition"
+        ]
+    },
+    {
+        "question": "10. Which aggregate function returns the number of distinct values in a column?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) COUNT",
+            "b) MIN",
+            "c) COUNT DISTINCT",
+            "d) SUM"
+        ]
+    }
+]

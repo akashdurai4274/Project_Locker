@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is memory management in operating systems?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Managing CPU resources",
+            "b) Managing network connections",
+            "c) Managing system memory",
+            "d) Managing file storage"
+        ]
+    },
+    {
+        "question": "2. What is the purpose of memory allocation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To optimize disk usage",
+            "b) To regulate CPU usage",
+            "c) To schedule CPU tasks",
+            "d) To assign portions of memory to processes"
+        ]
+    },
+    {
+        "question": "3. What is virtual memory?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Physical RAM installed in the system",
+            "b) A memory management technique that allows processes to use more memory than is physically available",
+            "c) A type of cache memory",
+            "d) A memory protection mechanism"
+        ]
+    },
+    {
+        "question": "4. Which memory management technique involves dividing memory into fixed-sized partitions?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Partitioning",
+            "b) Paging",
+            "c) Segmentation",
+            "d) Swapping"
+        ]
+    },
+    {
+        "question": "5. What is thrashing?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A memory leak",
+            "b) A deadlock",
+            "c) A disk failure",
+            "d) A situation where the operating system spends more time swapping data between memory and disk than executing processes"
+        ]
+    },
+    {
+        "question": "6. Which memory management technique allows processes to be loaded and executed from disk?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Partitioning",
+            "b) Paging",
+            "c) Swapping",
+            "d) Segmentation"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of a memory manager?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To allocate and deallocate memory as needed",
+            "b) To manage network connections",
+            "c) To optimize CPU usage",
+            "d) To control file access"
+        ]
+    },
+    {
+        "question": "8. Which memory management technique uses fixed-size blocks of memory?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Segmentation",
+            "b) Paging",
+            "c) Swapping",
+            "d) Fragmentation"
+        ]
+    },
+    {
+        "question": "9. What is a page fault?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A memory access violation",
+            "b) A CPU scheduling event",
+            "c) An event that occurs when a process attempts to access a page that is not currently in memory",
+            "d) A disk I/O operation"
+        ]
+    },
+    {
+        "question": "10. What is fragmentation in memory management?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A memory leak",
+            "b) A deadlock",
+            "c) A disk failure",
+            "d) The phenomenon where memory becomes divided into small, non-contiguous blocks"
+        ]
+    }
+]

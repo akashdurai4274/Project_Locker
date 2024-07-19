@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is hashing?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Sorting data in ascending order",
+      "b) Rearranging data randomly",
+      "c) Mapping data to a fixed-size array based on a key",
+      "d) Searching for data in a linked list"
+    ]
+  },
+  {
+    "question": "2. What is a hash function?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A function that generates random numbers",
+      "b) A function that maps data of arbitrary size to fixed-size values",
+      "c) A function that sorts data in descending order",
+      "d) A function that counts the number of elements in a data structure"
+    ]
+  },
+  {
+    "question": "3. What is collision resolution in hashing?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Handling the case when two keys hash to the same index",
+      "b) Mapping keys to unique indices",
+      "c) Rehashing the entire hash table",
+      "d) Deleting keys from the hash table"
+    ]
+  },
+  {
+    "question": "4. What is a hash table?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) A table of hashed values",
+      "b) A table with randomly arranged data",
+      "c) A table of sorted data",
+      "d) A data structure that implements hashing for efficient data retrieval"
+    ]
+  },
+  {
+    "question": "5. Which of the following is a common application of hashing?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Sorting arrays",
+      "b) Searching in a binary tree",
+      "c) Implementing data structures like dictionaries and sets",
+      "d) Rearranging linked lists"
+    ]
+  },
+  {
+    "question": "6. What is the purpose of a hash code?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) To represent the hashed value of a key",
+      "b) To generate random values",
+      "c) To sort data in ascending order",
+      "d) To encrypt data for secure transmission"
+    ]
+  },
+  {
+    "question": "7. Which collision resolution technique involves chaining?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Linear probing",
+      "b) Separate chaining",
+      "c) Quadratic probing",
+      "d) Double hashing"
+    ]
+  },
+  {
+    "question": "8. What is the load factor of a hash table?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) The number of elements in the hash table",
+      "b) The size of the hash table",
+      "c) The number of collisions",
+      "d) The ratio of filled slots to the total number of slots"
+    ]
+  },
+  {
+    "question": "9. Which collision resolution technique rehashes when a collision occurs?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Linear probing",
+      "b) Separate chaining",
+      "c) Quadratic probing",
+      "d) Double hashing"
+    ]
+  },
+  {
+    "question": "10. What is the worst-case time complexity of searching in a hash table?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  }
+]

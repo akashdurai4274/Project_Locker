@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is an operating system?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A hardware component",
+            "b) A software application",
+            "c) A programming language",
+            "d) Software that manages computer hardware and provides services for computer programs"
+        ]
+    },
+    {
+        "question": "2. What are the primary functions of an operating system?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Managing user interfaces",
+            "b) Running application software",
+            "c) Controlling hardware resources",
+            "d) All of the above"
+        ]
+    },
+    {
+        "question": "3. Which operating system is not Unix-based?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Linux",
+            "b) Windows",
+            "c) macOS",
+            "d) FreeBSD"
+        ]
+    },
+    {
+        "question": "4. What is the role of the kernel in an operating system?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Core component responsible for managing system resources",
+            "b) User interface for interacting with the operating system",
+            "c) Application launcher",
+            "d) Peripheral device driver"
+        ]
+    },
+    {
+        "question": "5. What is multitasking in operating systems?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Running multiple operating systems simultaneously",
+            "b) Running multiple hardware devices simultaneously",
+            "c) Running multiple tasks or processes concurrently",
+            "d) Switching between different user interfaces"
+        ]
+    },
+    {
+        "question": "6. What is a process in an operating system?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A physical device connected to the computer",
+            "b) A program in execution",
+            "c) An input/output operation",
+            "d) A system call"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of a file system?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To manage hardware resources",
+            "b) To optimize CPU usage",
+            "c) To control network traffic",
+            "d) To organize and manage files on storage devices"
+        ]
+    },
+    {
+        "question": "8. What is virtual memory?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) An abstraction of physical memory that extends available RAM by using disk space",
+            "b) A type of cache memory",
+            "c) A system for sharing memory between processes",
+            "d) A memory protection mechanism"
+        ]
+    },
+    {
+        "question": "9. What is a device driver?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A type of hardware component",
+            "b) A system utility program",
+            "c) Software that allows the operating system to communicate with hardware devices",
+            "d) A type of file system"
+        ]
+    },
+    {
+        "question": "10. Which component of an operating system provides an interface between user applications and the hardware?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Compiler",
+            "b) Kernel",
+            "c) File system",
+            "d) Shell"
+        ]
+    }
+]

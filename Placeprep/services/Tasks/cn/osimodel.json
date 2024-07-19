@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which layer of the OSI model is responsible for data transmission over physical media?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Physical Layer",
+            "b) Data Link Layer",
+            "c) Network Layer",
+            "d) Transport Layer"
+        ]
+    },
+    {
+        "question": "2. What is the primary function of the Transport Layer in the OSI model?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Routing data packets",
+            "b) Ensuring reliable end-to-end communication",
+            "c) Providing network addressing",
+            "d) Transmitting data frames"
+        ]
+    },
+    {
+        "question": "3. Which layer of the OSI model is responsible for logical addressing and routing?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Physical Layer",
+            "b) Data Link Layer",
+            "c) Network Layer",
+            "d) Transport Layer"
+        ]
+    },
+    {
+        "question": "4. What is the primary function of the Data Link Layer in the OSI model?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Establishing connections between devices",
+            "b) Translating data into packets",
+            "c) Addressing data for transmission",
+            "d) Providing error detection and correction"
+        ]
+    },
+    {
+        "question": "5. Which layer of the OSI model ensures error-free data transmission?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Physical Layer",
+            "b) Data Link Layer",
+            "c) Network Layer",
+            "d) Transport Layer"
+        ]
+    },
+    {
+        "question": "6. What is the primary responsibility of the Network Layer in the OSI model?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Error detection and correction",
+            "b) Establishing connections between devices",
+            "c) Logical addressing and routing",
+            "d) Transmitting data frames"
+        ]
+    },
+    {
+        "question": "7. Which layer of the OSI model is responsible for flow control and error recovery?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Physical Layer",
+            "b) Data Link Layer",
+            "c) Network Layer",
+            "d) Transport Layer"
+        ]
+    },
+    {
+        "question": "8. What does the Presentation Layer in the OSI model handle?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Logical addressing",
+            "b) Data translation and encryption",
+            "c) Routing and forwarding",
+            "d) Physical media transmission"
+        ]
+    },
+    {
+        "question": "9. Which layer of the OSI model provides reliable end-to-end communication?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Physical Layer",
+            "b) Data Link Layer",
+            "c) Network Layer",
+            "d) Transport Layer"
+        ]
+    },
+    {
+        "question": "10. What is the purpose of the Session Layer in the OSI model?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Managing communication sessions between devices",
+            "b) Formatting data for presentation",
+            "c) Establishing physical connections",
+            "d) Detecting and correcting errors in data"
+        ]
+    }
+]

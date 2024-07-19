@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is encapsulation ?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Hiding data within a method",
+            "b) Exposing data publicly",
+            "c) Wrapping data and methods into a single unit",
+            "d) Using getters and setters"
+        ]
+    },
+    {
+        "question": "2. Which principle of OOP does encapsulation relate to?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Data hiding",
+            "b) Inheritance",
+            "c) Polymorphism",
+            "d) Abstraction"
+        ]
+    },
+    {
+        "question": "3. Which access modifier is used to restrict access to a member variable or method in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) public",
+            "b) private",
+            "c) protected",
+            "d) default"
+        ]
+    },
+    {
+        "question": "4. What is the purpose of encapsulation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To expose data publicly",
+            "b) To increase code complexity",
+            "c) To violate the principle of data hiding",
+            "d) To protect data from unauthorized access"
+        ]
+    },
+    {
+        "question": "5. Which of the following statements is true about encapsulation?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) It encourages direct access to member variables.",
+            "b) It makes data publicly accessible without any restrictions.",
+            "c) It bundles data and methods into a single unit.",
+            "d) It violates the principle of data hiding."
+        ]
+    },
+    {
+        "question": "6. Which Java feature is used to implement encapsulation?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Inheritance",
+            "b) Access modifiers",
+            "c) Interfaces",
+            "d) Polymorphism"
+        ]
+    },
+    {
+        "question": "7. Which of the following is an example of encapsulation?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Using private member variables with public getter and setter methods",
+            "b) Declaring all member variables as public",
+            "c) Exposing data directly to the user",
+            "d) Using protected member variables"
+        ]
+    },
+    {
+        "question": "8. Can encapsulation be achieved without access modifiers?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only for static variables",
+            "d) Only for final variables"
+        ]
+    },
+    {
+        "question": "9. What is the role of getters and setters in encapsulation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To directly access private member variables",
+            "b) To make member variables public",
+            "c) To bypass encapsulation",
+            "d) To provide controlled access to member variables"
+        ]
+    },
+    {
+        "question": "10. Which access modifier should be used for member variables to achieve encapsulation?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) public",
+            "b) private",
+            "c) protected",
+            "d) default"
+        ]
+    }
+]

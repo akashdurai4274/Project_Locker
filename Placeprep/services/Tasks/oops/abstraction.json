@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is data abstraction in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Hiding data from the user",
+            "b) Exposing all implementation details",
+            "c) Showing only essential information and hiding unnecessary details",
+            "d) Creating new data types"
+        ]
+    },
+    {
+        "question": "2. Which principle of OOP does data abstraction relate to?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Data hiding",
+            "b) Abstraction",
+            "c) Encapsulation",
+            "d) Polymorphism"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of data abstraction?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To hide implementation details and show only relevant information",
+            "b) To expose implementation details",
+            "c) To increase code complexity",
+            "d) To reduce code maintainability"
+        ]
+    },
+    {
+        "question": "4. Which keyword is used to implement data abstraction in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) public",
+            "b) static",
+            "c) abstract",
+            "d) final"
+        ]
+    },
+    {
+        "question": "5. Which of the following is an example of data abstraction?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Exposing all internal methods publicly",
+            "b) Hiding all data members",
+            "c) Exposing all implementation details",
+            "d) Exposing only essential features of an object"
+        ]
+    },
+    {
+        "question": "6. What is the role of interfaces in data abstraction?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To expose all implementation details",
+            "b) To define a contract for implementing classes",
+            "c) To expose all internal methods publicly",
+            "d) To restrict code access"
+        ]
+    },
+    {
+        "question": "7. Can a class be both abstract and concrete?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if it contains private methods",
+            "d) Only if it contains final methods"
+        ]
+    },
+    {
+        "question": "8. What is the benefit of using data abstraction?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Increased code complexity",
+            "b) Reduced code flexibility",
+            "c) Exposing all implementation details",
+            "d) Improved code maintainability and extensibility"
+        ]
+    },
+    {
+        "question": "9. Which of the following statements is true about data abstraction?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) It exposes all implementation details",
+            "b) It hides all data members",
+            "c) It focuses on essential qualities while hiding unnecessary details",
+            "d) It increases code complexity"
+        ]
+    },
+    {
+        "question": "10. Can abstract classes have constructors?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if they are static",
+            "d) Only if they are final"
+        ]
+    }
+]

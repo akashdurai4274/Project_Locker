@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is the purpose of an operating system?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Managing hardware resources",
+            "b) Executing application programs",
+            "c) Handling user interfaces",
+            "d) All of the above"
+        ]
+    },
+    {
+        "question": "2. Which of the following is not a primary function of an operating system?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Process management",
+            "b) Data encryption",
+            "c) Memory management",
+            "d) File management"
+        ]
+    },
+    {
+        "question": "3. What is the kernel in an operating system?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) The core component responsible for managing system resources",
+            "b) A user interface",
+            "c) An application program",
+            "d) A peripheral device"
+        ]
+    },
+    {
+        "question": "4. What is a system call?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A hardware failure",
+            "b) A network protocol",
+            "c) A request made by a process to the operating system for a service",
+            "d) A type of file system"
+        ]
+    },
+    {
+        "question": "5. Which component of an operating system provides an interface between user applications and the hardware?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Compiler",
+            "b) Kernel",
+            "c) File system",
+            "d) Shell"
+        ]
+    },
+    {
+        "question": "6. What is the role of device drivers in an operating system?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) They allow the operating system to communicate with hardware devices",
+            "b) They manage user applications",
+            "c) They provide network connectivity",
+            "d) They store user data"
+        ]
+    },
+    {
+        "question": "7. Which operating system is not based on the Unix architecture?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Linux",
+            "b) Windows",
+            "c) macOS",
+            "d) FreeBSD"
+        ]
+    },
+    {
+        "question": "8. What is the main advantage of multitasking in an operating system?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Increased system security",
+            "b) Improved hardware compatibility",
+            "c) Enhanced system performance",
+            "d) The ability to execute multiple tasks simultaneously"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of system initialization during the boot process?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To shut down the system",
+            "b) To install new software updates",
+            "c) To initialize system hardware and software components",
+            "d) To create a backup of system data"
+        ]
+    },
+    {
+        "question": "10. Which of the following is not a type of operating system?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Application-specific operating system",
+            "b) Real-time operating system",
+            "c) Network operating system",
+            "d) Embedded operating system"
+        ]
+    }
+]

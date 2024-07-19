@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a heap in data structures?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A data structure for storing sorted data",
+      "b) A binary tree with special properties",
+      "c) A stack-based data structure",
+      "d) A table of hashed values"
+    ]
+  },
+  {
+    "question": "2. What is the property of a min-heap?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) The root node has the maximum value",
+      "b) All children nodes have higher values than their parent",
+      "c) The root node has the minimum value",
+      "d) All children nodes have lower values than their parent"
+    ]
+  },
+  {
+    "question": "3. What operation is typically performed on a heap to maintain its properties?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Sorting",
+      "b) Searching",
+      "c) Insertion",
+      "d) Heapify"
+    ]
+  },
+  {
+    "question": "4. What is the time complexity of finding the maximum element in a max-heap?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) O(1)",
+      "b) O(log n)",
+      "c) O(n)",
+      "d) O(n^2)"
+    ]
+  },
+  {
+    "question": "5. Which data structure is typically used to implement a heap?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Linked list",
+      "b) Array",
+      "c) Hash table",
+      "d) Stack"
+    ]
+  },
+  {
+    "question": "6. What is the height of a heap with n elements?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) log n",
+      "b) n",
+      "c) log(n+1)",
+      "d) n-1"
+    ]
+  },
+  {
+    "question": "7. Which of the following is a valid representation of a heap?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Complete binary tree",
+      "b) Binary search tree",
+      "c) AVL tree",
+      "d) Red-black tree"
+    ]
+  },
+  {
+    "question": "8. What is the time complexity of inserting an element into a heap?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) O(1)",
+      "b) O(log n)",
+      "c) O(n)",
+      "d) O(n log n)"
+    ]
+  },
+  {
+    "question": "9. Which operation is used to remove the maximum element from a max-heap?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Extract minimum",
+      "b) Delete minimum",
+      "c) Extract maximum",
+      "d) Delete maximum"
+    ]
+  },
+  {
+    "question": "10. What is the main advantage of using a heap over other data structures?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Constant time insertion",
+      "b) Constant time search",
+      "c) Constant time deletion",
+      "d) Efficient priority queue operations"
+    ]
+  }
+]

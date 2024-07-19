@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a table in a relational database?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A collection of queries",
+            "b) A collection of related data organized in rows and columns",
+            "c) A collection of stored procedures",
+            "d) A collection of views"
+        ]
+    },
+    {
+        "question": "2. What is a column in a database table?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A horizontal arrangement of data",
+            "b) A vertical arrangement of data",
+            "c) A group of related tables",
+            "d) A vertical arrangement of data with a specific data type"
+        ]
+    },
+    {
+        "question": "3. What is a row in a database table?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) A horizontal arrangement of data",
+            "b) A vertical arrangement of data",
+            "c) A group of related tables",
+            "d) A vertical arrangement of data with a specific data type"
+        ]
+    },
+    {
+        "question": "4. What is the primary key of a database table?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A column that allows NULL values",
+            "b) A unique identifier for each row in the table",
+            "c) A column that stores only numeric data",
+            "d) A column that stores only string data"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the foreign key in a database table?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To identify the primary key column",
+            "b) To enforce data constraints",
+            "c) To establish a relationship between two tables",
+            "d) To sort data in ascending or descending order"
+        ]
+    },
+    {
+        "question": "6. Which SQL keyword is used to create a new table?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) CREATE",
+            "b) ALTER",
+            "c) DROP",
+            "d) SELECT"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the ALTER TABLE statement in SQL?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To delete an existing table",
+            "b) To modify the structure of an existing table",
+            "c) To insert new data into a table",
+            "d) To retrieve data from a table"
+        ]
+    },
+    {
+        "question": "8. Which SQL keyword is used to remove an existing table?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) CREATE",
+            "b) ALTER",
+            "c) DROP",
+            "d) SELECT"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the DROP TABLE statement in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To create a new table",
+            "b) To modify the structure of an existing table",
+            "c) To insert new data into a table",
+            "d) To remove an existing table"
+        ]
+    },
+    {
+        "question": "10. What is the purpose of the PRIMARY KEY constraint in a database table?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To uniquely identify each row in the table",
+            "b) To enforce data constraints",
+            "c) To establish a relationship between two tables",
+            "d) To sort data in ascending or descending order"
+        ]
+    }
+]

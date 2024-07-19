@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a deadlock in operating systems?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A system crash",
+            "b) A security breach",
+            "c) A memory leak",
+            "d) A situation where two or more processes are unable to proceed because each is waiting for the other to release resources"
+        ]
+    },
+    {
+        "question": "2. Which condition must be present for a deadlock to occur?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Mutual exclusion, hold and wait, no preemption, circular wait",
+            "b) Exclusive access, preemptive scheduling, circular wait, resource allocation",
+            "c) Mutual exclusion, preemptive scheduling, hold and wait, no preemption",
+            "d) Circular wait, preemptive scheduling, resource allocation, no preemption"
+        ]
+    },
+    {
+        "question": "3. What is the role of the resource allocation graph in deadlock detection?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) It allocates resources to processes",
+            "b) It prevents resource contention",
+            "c) It represents the allocation of resources and helps detect circular wait conditions",
+            "d) It ensures mutual exclusion between processes"
+        ]
+    },
+    {
+        "question": "4. How can deadlock prevention be achieved?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) By allowing circular wait",
+            "b) By avoiding one of the conditions necessary for deadlock",
+            "c) By encouraging hold and wait",
+            "d) By allowing preemption of resources"
+        ]
+    },
+    {
+        "question": "5. Which algorithm is used to prevent deadlocks by ensuring that resources are allocated to processes only if the resulting state is safe?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Banker's algorithm",
+            "b) Round-robin scheduling",
+            "c) First Come First Serve",
+            "d) Resource Allocation Graph algorithm"
+        ]
+    },
+    {
+        "question": "6. What is the drawback of deadlock prevention algorithms?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) They may result in reduced system throughput",
+            "b) They may lead to resource overutilization",
+            "c) They may increase the likelihood of deadlock occurrence",
+            "d) They may cause system crashes"
+        ]
+    },
+    {
+        "question": "7. Which strategy allows the operating system to choose which process to terminate in order to resolve a deadlock?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Preemption",
+            "b) Circular wait",
+            "c) Deadlock recovery",
+            "d) Priority inversion"
+        ]
+    },
+    {
+        "question": "8. What is the primary goal of deadlock avoidance?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To allow circular wait",
+            "b) To prevent the occurrence of deadlocks",
+            "c) To encourage hold and wait",
+            "d) To increase the likelihood of deadlock occurrence"
+        ]
+    },
+    {
+        "question": "9. Which condition is violated by the operating system to recover from a deadlock situation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Mutual exclusion",
+            "b) Hold and wait",
+            "c) No preemption",
+            "d) Circular wait"
+        ]
+    },
+    {
+        "question": "10. What is the primary disadvantage of deadlock detection and recovery algorithms?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) They require system resources to periodically check for deadlocks",
+            "b) They often result in system crashes",
+            "c) They cannot prevent deadlocks from occurring",
+            "d) They may lead to resource overutilization"
+        ]
+    }
+]

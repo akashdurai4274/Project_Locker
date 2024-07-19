@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a query in SQL?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A function that modifies table structure",
+            "b) A constraint that enforces a specific condition on data values",
+            "c) A statement used to retrieve or manipulate data stored in a database",
+            "d) A clause used to filter rows based on a specified condition"
+        ]
+    },
+    {
+        "question": "2. Which SQL keyword is used to retrieve data from a database?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) INSERT",
+            "b) SELECT",
+            "c) UPDATE",
+            "d) DELETE"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of the WHERE clause in a SQL query?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To specify the columns to be retrieved",
+            "b) To specify the order of the result set",
+            "c) To group rows that have the same values into summary rows",
+            "d) To filter rows based on a specified condition"
+        ]
+    },
+    {
+        "question": "4. Which SQL keyword is used to retrieve all columns from a table?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) * (Wildcard)",
+            "b) COLUMN",
+            "c) FIELD",
+            "d) VALUE"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the ORDER BY clause in a SQL query?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To filter rows based on a specified condition",
+            "b) To group rows that have the same values into summary rows",
+            "c) To specify the order of the result set",
+            "d) To perform arithmetic operations"
+        ]
+    },
+    {
+        "question": "6. Which SQL keyword is used to limit the number of rows returned by a query?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) ALL",
+            "b) DISTINCT",
+            "c) ORDER BY",
+            "d) LIMIT"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the GROUP BY clause in a SQL query?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To specify the columns to be retrieved",
+            "b) To group rows that have the same values into summary rows",
+            "c) To filter rows based on a specified condition",
+            "d) To perform arithmetic operations"
+        ]
+    },
+    {
+        "question": "8. Which SQL keyword is used to eliminate duplicate rows from the result set?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) DISTINCT",
+            "b) UNIQUE",
+            "c) FILTER",
+            "d) EXCEPT"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the HAVING clause in a SQL query?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To specify the order of the result set",
+            "b) To filter rows based on a specified condition",
+            "c) To group rows that have the same values into summary rows",
+            "d) To filter groups based on a specified condition"
+        ]
+    },
+    {
+        "question": "10. Which SQL keyword is used to join tables in a query?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) UNION",
+            "b) JOIN",
+            "c) INNER",
+            "d) WHERE"
+        ]
+    }
+]

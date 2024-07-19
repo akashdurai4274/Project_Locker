@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which protocol is used for retrieving emails from a mail server?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) POP3",
+            "d) SMTP"
+        ]
+    },
+    {
+        "question": "2. What is the primary function of the HTTP protocol?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To transmit web pages over the internet",
+            "b) To transfer files between systems",
+            "c) To send and receive emails",
+            "d) To establish secure connections"
+        ]
+    },
+    {
+        "question": "3. Which protocol is used for secure communication over a computer network?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) SMTP",
+            "d) HTTPS"
+        ]
+    },
+    {
+        "question": "4. What protocol is used for transferring files between a client and a server?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) SMTP",
+            "d) POP3"
+        ]
+    },
+    {
+        "question": "5. Which protocol is responsible for sending and receiving emails?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) SMTP",
+            "d) POP3"
+        ]
+    },
+    {
+        "question": "6. What is the primary purpose of the DNS protocol?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To transfer files between systems",
+            "b) To establish secure connections",
+            "c) To send and receive emails",
+            "d) To translate domain names to IP addresses"
+        ]
+    },
+    {
+        "question": "7. Which protocol is used for transferring files securely?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) HTTP",
+            "b) SFTP",
+            "c) SMTP",
+            "d) POP3"
+        ]
+    },
+    {
+        "question": "8. What protocol is used for remote access to computers over a network?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) SSH",
+            "b) FTP",
+            "c) SMTP",
+            "d) HTTP"
+        ]
+    },
+    {
+        "question": "9. Which protocol is used for managing and transferring files between computers?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) SMTP",
+            "d) POP3"
+        ]
+    },
+    {
+        "question": "10. What protocol is commonly used for sending files to a web server?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) HTTP",
+            "b) FTP",
+            "c) SMTP",
+            "d) POP3"
+        ]
+    }
+]

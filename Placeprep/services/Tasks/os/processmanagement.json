@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is process management in operating systems?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Managing hardware resources",
+            "b) Managing file systems",
+            "c) Managing network connections",
+            "d) Managing execution of multiple processes"
+        ]
+    },
+    {
+        "question": "2. What is a process in an operating system?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A physical device connected to the computer",
+            "b) A program in execution",
+            "c) An input/output operation",
+            "d) A system call"
+        ]
+    },
+    {
+        "question": "3. What is process scheduling?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Allocating memory to processes",
+            "b) Managing file access permissions",
+            "c) Determining the order in which processes are executed by the CPU",
+            "d) Managing network connections"
+        ]
+    },
+    {
+        "question": "4. What is a CPU burst?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) The amount of time a process requires to execute its CPU-bound portion",
+            "b) The time taken by a process to perform I/O operations",
+            "c) The total time a process spends waiting in the ready queue",
+            "d) The time taken by the CPU to switch between processes"
+        ]
+    },
+    {
+        "question": "5. What is a context switch?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A type of system call",
+            "b) A process synchronization mechanism",
+            "c) A memory management operation",
+            "d) The process of saving and restoring the state of a process or thread"
+        ]
+    },
+    {
+        "question": "6. What is process synchronization?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Managing process priorities",
+            "b) Coordinating the execution of multiple processes to ensure correct and orderly operation",
+            "c) Allocating CPU time to processes",
+            "d) Managing process termination"
+        ]
+    },
+    {
+        "question": "7. What is a deadlock in process management?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A process that has terminated",
+            "b) A process that is waiting for an I/O operation to complete",
+            "c) A situation where two or more processes are unable to proceed because each is waiting for the other to release resources",
+            "d) A system crash"
+        ]
+    },
+    {
+        "question": "8. What is process termination?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) The end of a process's execution",
+            "b) The suspension of a process",
+            "c) The creation of a new process",
+            "d) The switching of a process from waiting to ready state"
+        ]
+    },
+    {
+        "question": "9. What is process priority?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) The amount of memory allocated to a process",
+            "b) The number of threads in a process",
+            "c) The duration for which a process can run",
+            "d) The relative importance of a process in relation to other processes"
+        ]
+    },
+    {
+        "question": "10. What is process state?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) The number of processes in the system",
+            "b) The current condition of a process, such as running, waiting, or ready",
+            "c) The priority level of a process",
+            "d) The percentage of CPU time allocated to a process"
+        ]
+    }
+]

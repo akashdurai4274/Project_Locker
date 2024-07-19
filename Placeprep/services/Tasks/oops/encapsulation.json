@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is encapsulation in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Bundling data with methods that operate on the data",
+            "b) Exposing all implementation details",
+            "c) Showing only essential information",
+            "d) Creating new data types"
+        ]
+    },
+    {
+        "question": "2. Which principle of OOP does encapsulation relate to?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Data hiding",
+            "b) Abstraction",
+            "c) Inheritance",
+            "d) Encapsulation"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of encapsulation?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To expose all implementation details",
+            "b) To hide implementation details and restrict access to data",
+            "c) To increase code complexity",
+            "d) To improve code maintainability"
+        ]
+    },
+    {
+        "question": "4. Which keyword is used to implement encapsulation in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) public",
+            "b) static",
+            "c) abstract",
+            "d) private"
+        ]
+    },
+    {
+        "question": "5. Which of the following is an example of encapsulation?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Exposing all internal methods publicly",
+            "b) Hiding all data members",
+            "c) Hiding implementation details and providing access through methods",
+            "d) Exposing only essential features of an object"
+        ]
+    },
+    {
+        "question": "6. What is the role of access modifiers in encapsulation?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To control access to class members",
+            "b) To expose all implementation details",
+            "c) To hide all data members",
+            "d) To increase code flexibility"
+        ]
+    },
+    {
+        "question": "7. Can private members of a class be accessed from outside the class?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if they are static",
+            "d) Only if they are final"
+        ]
+    },
+    {
+        "question": "8. What is the benefit of using encapsulation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Increased code complexity",
+            "b) Reduced code flexibility",
+            "c) Exposing all implementation details",
+            "d) Improved code maintainability and security"
+        ]
+    },
+    {
+        "question": "9. Which of the following statements is true about encapsulation?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) It exposes all implementation details",
+            "b) It hides all data members",
+            "c) It hides implementation details and restricts access to data",
+            "d) It increases code flexibility"
+        ]
+    },
+    {
+        "question": "10. Can encapsulation be achieved without using access modifiers?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if they are static",
+            "d) Only if they are final"
+        ]
+    }
+]

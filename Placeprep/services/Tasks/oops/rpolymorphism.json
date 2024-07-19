@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which type of polymorphism is resolved during runtime in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Run-time polymorphism",
+            "b) Compile-time polymorphism",
+            "c) Static polymorphism",
+            "d) Dynamic polymorphism"
+        ]
+    },
+    {
+        "question": "2. What is method overriding in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Redefining a private method in the same class",
+            "b) Redefining a static method in the subclass",
+            "c) Redefining a final method in the subclass",
+            "d) Redefining a method in the subclass that is already defined in the superclass"
+        ]
+    },
+    {
+        "question": "3. Which relationship is required for method overriding?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Association",
+            "b) Inheritance",
+            "c) Aggregation",
+            "d) Composition"
+        ]
+    },
+    {
+        "question": "4. Which keyword is used to indicate method overriding in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Override",
+            "b) Overloaded",
+            "c) Override",
+            "d) Overriding"
+        ]
+    },
+    {
+        "question": "5. Can overridden methods have a different return type?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only for private methods",
+            "d) Only for static methods"
+        ]
+    },
+    {
+        "question": "6. Which of the following statements is true about method overriding?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) It must have the same method name and return type",
+            "b) It can only be done in the superclass",
+            "c) It cannot be done in interfaces",
+            "d) It redefines a method in the subclass that is already defined in the superclass"
+        ]
+    },
+    {
+        "question": "7. Can overridden methods have a different number of parameters?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only for private methods",
+            "d) Only for static methods"
+        ]
+    },
+    {
+        "question": "8. What is the benefit of method overriding?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) It allows a subclass to provide a specific implementation of a method",
+            "b) It hides methods from other classes",
+            "c) It restricts access to methods",
+            "d) It prevents code duplication"
+        ]
+    },
+    {
+        "question": "9. Which access modifier can be used for overriding methods?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) static",
+            "b) final",
+            "c) protected",
+            "d) private"
+        ]
+    },
+    {
+        "question": "10. Which keyword is used to prevent a method from being overridden in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) static",
+            "b) final",
+            "c) private",
+            "d) @Override"
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a queue?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A linear data structure with LIFO (Last In, First Out) behavior",
+      "b) A hierarchical data structure",
+      "c) A linear data structure with FIFO (First In, First Out) behavior",
+      "d) A collection of nodes and edges"
+    ]
+  },
+  {
+    "question": "2. Which operation adds an element to the rear of the queue?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) pop",
+      "b) dequeue",
+      "c) top",
+      "d) enqueue"
+    ]
+  },
+  {
+    "question": "3. Which operation removes an element from the front of the queue?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) pop",
+      "b) dequeue",
+      "c) top",
+      "d) enqueue"
+    ]
+  },
+  {
+    "question": "4. Which of the following is not a common implementation of a queue?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Linked List",
+      "b) Array",
+      "c) Stack",
+      "d) Circular Buffer"
+    ]
+  },
+  {
+    "question": "5. What is the time complexity of enqueue and dequeue operations in a queue implemented using an array?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) O(1) for enqueue and O(n) for dequeue",
+      "b) O(n) for enqueue and O(1) for dequeue",
+      "c) O(log n) for both enqueue and dequeue",
+      "d) O(1) for both enqueue and dequeue"
+    ]
+  },
+  {
+    "question": "6. What is a priority queue?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A queue with variable capacity",
+      "b) A queue where elements are processed based on their priority",
+      "c) A queue with fixed capacity",
+      "d) A queue with LIFO behavior"
+    ]
+  },
+  {
+    "question": "7. Which operation is used to retrieve the front element of the queue without removing it?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) pop",
+      "b) dequeue",
+      "c) top",
+      "d) enqueue"
+    ]
+  },
+  {
+    "question": "8. What is the maximum number of elements that can be stored in a queue with fixed capacity?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Limited by the capacity of the queue",
+      "b) Unlimited",
+      "c) Double the capacity of the queue",
+      "d) Equal to the capacity of the queue plus one"
+    ]
+  },
+  {
+    "question": "9. Which operation is used to check if a queue is empty?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) pop",
+      "b) dequeue",
+      "c) top",
+      "d) isEmpty"
+    ]
+  },
+  {
+    "question": "10. Which data structure is often used to implement a queue with variable capacity?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Linked List",
+      "b) Circular Buffer",
+      "c) Stack",
+      "d) Array"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is file management in operating systems?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Managing system files only",
+            "b) Managing hardware resources",
+            "c) Managing files stored on secondary storage devices",
+            "d) Managing system processes"
+        ]
+    },
+    {
+        "question": "2. Which of the following is not a common file operation?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Create",
+            "b) Read",
+            "c) Write",
+            "d) Format"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of a file system?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To manage network connections",
+            "b) To provide a logical structure for organizing and accessing files",
+            "c) To manage system memory",
+            "d) To schedule CPU tasks"
+        ]
+    },
+    {
+        "question": "4. Which component of a file system is responsible for maintaining information about files and directories?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) File control block",
+            "b) CPU scheduler",
+            "c) Kernel",
+            "d) File allocation table"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of file access control?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To limit CPU usage",
+            "b) To prevent disk fragmentation",
+            "c) To optimize file access speed",
+            "d) To regulate which users or processes can access or modify files"
+        ]
+    },
+    {
+        "question": "6. Which file organization technique stores files in a linear sequence without any specific order?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Indexed file organization",
+            "b) Sequential file organization",
+            "c) Direct file organization",
+            "d) Clustered file organization"
+        ]
+    },
+    {
+        "question": "7. What is metadata in the context of file management?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Data about the file itself, such as its size, type, and location",
+            "b) Data stored within the file",
+            "c) Data used for file encryption",
+            "d) Data about the file system structure"
+        ]
+    },
+    {
+        "question": "8. Which file system feature helps prevent data loss or corruption in case of system crashes or power failures?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) File compression",
+            "b) File fragmentation",
+            "c) Journaling",
+            "d) Encryption"
+        ]
+    },
+    {
+        "question": "9. Which of the following is not a common file system type?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) NTFS",
+            "b) HTTP",
+            "c) FAT32",
+            "d) ext4"
+        ]
+    },
+    {
+        "question": "10. What is the purpose of file permissions?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To control access to files and directories",
+            "b) To optimize file storage",
+            "c) To accelerate file access",
+            "d) To compress files"
+        ]
+    }
+]

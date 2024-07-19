@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a join in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A function that modifies table structure",
+            "b) A constraint that enforces a specific condition on data values",
+            "c) A clause used to filter rows based on a specified condition",
+            "d) A mechanism for combining rows from two or more tables based on a related column between them"
+        ]
+    },
+    {
+        "question": "2. Which type of join returns only the rows that have matching values in both tables?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) LEFT JOIN",
+            "b) INNER JOIN",
+            "c) RIGHT JOIN",
+            "d) FULL OUTER JOIN"
+        ]
+    },
+    {
+        "question": "3. What is the primary difference between INNER JOIN and OUTER JOIN?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) INNER JOIN returns all rows from both tables, while OUTER JOIN returns only the matching rows",
+            "b) INNER JOIN returns only the rows with unmatched values, while OUTER JOIN returns all rows from both tables",
+            "c) INNER JOIN returns only the rows with matching values, while OUTER JOIN returns all rows from one or both tables",
+            "d) INNER JOIN returns a Cartesian product of the two tables, while OUTER JOIN returns only the rows with unmatched values"
+        ]
+    },
+    {
+        "question": "4. Which type of join returns all rows from both tables, with NULL values in the columns where there is no match?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) LEFT JOIN",
+            "b) INNER JOIN",
+            "c) RIGHT JOIN",
+            "d) FULL OUTER JOIN"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the ON clause in a JOIN statement?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To specify the condition for matching rows between tables",
+            "b) To filter rows based on a specified condition",
+            "c) To order the result set in ascending or descending order",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "6. Which type of join returns all rows from the left table and the matching rows from the right table?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) LEFT JOIN",
+            "b) INNER JOIN",
+            "c) RIGHT JOIN",
+            "d) FULL OUTER JOIN"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the USING clause in a JOIN statement?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To specify the condition for matching rows between tables",
+            "b) To filter rows based on a specified condition",
+            "c) To order the result set in ascending or descending order",
+            "d) To specify the columns for joining when they have the same name in both tables"
+        ]
+    },
+    {
+        "question": "8. Which type of join returns all rows from the right table and the matching rows from the left table?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) LEFT JOIN",
+            "b) INNER JOIN",
+            "c) RIGHT JOIN",
+            "d) FULL OUTER JOIN"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the NATURAL JOIN clause in SQL?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To specify the condition for matching rows between tables",
+            "b) To perform a join based on columns with the same name in both tables",
+            "c) To order the result set in ascending or descending order",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "10. Which type of join returns all rows from both tables, with NULL values in the columns where there is no match?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) LEFT JOIN",
+            "b) INNER JOIN",
+            "c) RIGHT JOIN",
+            "d) FULL OUTER JOIN"
+        ]
+    }
+]

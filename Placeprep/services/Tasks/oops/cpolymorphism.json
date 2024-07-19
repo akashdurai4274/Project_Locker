@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is compile-time polymorphism also known as?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Method overloading",
+            "b) Method overriding",
+            "c) Operator overloading",
+            "d) Operator overriding"
+        ]
+    },
+    {
+        "question": "2. In method overloading, can two methods have the same name and parameters?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if they have different return types",
+            "d) Only if they are in different classes"
+        ]
+    },
+    {
+        "question": "3. Which of the following must be different for overloaded methods?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Method name",
+            "b) Return type",
+            "c) Number or types of parameters",
+            "d) Access modifiers"
+        ]
+    },
+    {
+        "question": "4. What is the main advantage of method overloading?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Improved code readability",
+            "b) Reduced method names",
+            "c) Simplified method invocation",
+            "d) Early error detection"
+        ]
+    },
+    {
+        "question": "5. Which keyword is used to indicate method overloading in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Overload",
+            "b) Override",
+            "c) Overridden",
+            "d) Overloading"
+        ]
+    },
+    {
+        "question": "6. Can overloaded methods have different return types?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only for private methods",
+            "d) Only for static methods"
+        ]
+    },
+    {
+        "question": "7. Which of the following statements is true about method overloading?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) It allows different access modifiers",
+            "b) It must have the same method name and return type",
+            "c) It must have different parameter names",
+            "d) It provides multiple methods with the same name but different parameters"
+        ]
+    },
+    {
+        "question": "8. Can overloaded methods have different access modifiers?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only for private methods",
+            "d) Only for public methods"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of method overloading?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To provide multiple methods with the same name but different parameters",
+            "b) To redefine methods in the subclass",
+            "c) To restrict access to methods",
+            "d) To provide multiple methods with the same name and same parameters"
+        ]
+    },
+    {
+        "question": "10. Which keyword is used to prevent a method from being overloaded in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) static",
+            "b) final",
+            "c) private",
+            "d) @Override"
+        ]
+    }
+]

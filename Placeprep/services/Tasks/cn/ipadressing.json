@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is the purpose of an IP address?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) To uniquely identify a device on a network",
+      "b) To determine the physical location of a device",
+      "c) To encrypt data transmitted over the network",
+      "d) To regulate the speed of data transfer"
+    ]
+  },
+  {
+    "question": "2. Which of the following IP address classes is used for multicasting?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Class A",
+      "b) Class B",
+      "c) Class C",
+      "d) Class D"
+    ]
+  },
+  {
+    "question": "3. What is a subnet mask used for?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) To identify the network portion of an IP address",
+      "b) To divide an IP network into subnetworks",
+      "c) To determine the default gateway of a device",
+      "d) To specify the DNS server for a network"
+    ]
+  },
+  {
+    "question": "4. Which version of IP introduced IPv6?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) IPv2",
+      "b) IPv4",
+      "c) IPv6",
+      "d) IPv8"
+    ]
+  },
+  {
+    "question": "5. What is the loopback address in IPv4?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) 127.0.0.1",
+      "b) 192.168.0.1",
+      "c) 10.0.0.1",
+      "d) 172.16.0.1"
+    ]
+  },
+  {
+    "question": "6. Which of the following is a private IP address range?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) 8.8.8.8 - 8.8.8.15",
+      "b) 172.16.0.0 - 172.31.255.255",
+      "c) 192.0.0.0 - 192.0.0.255",
+      "d) 10.0.0.0 - 10.255.255.255"
+    ]
+  },
+  {
+    "question": "7. What is DHCP used for in IP networking?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) To assign static IP addresses to devices",
+      "b) To resolve domain names to IP addresses",
+      "c) To dynamically assign IP addresses to devices",
+      "d) To filter incoming and outgoing network traffic"
+    ]
+  },
+  {
+    "question": "8. What is the maximum number of IP addresses available in a Class C network?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) 8",
+      "b) 256",
+      "c) 65,536",
+      "d) 254"
+    ]
+  },
+  {
+    "question": "9. What is a default gateway used for in IP networking?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) To forward packets to destinations outside the local network",
+      "b) To connect devices within the same network",
+      "c) To translate domain names into IP addresses",
+      "d) To manage network security policies"
+    ]
+  },
+  {
+    "question": "10. What is NAT (Network Address Translation) used for?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) To encrypt network traffic",
+      "b) To translate private IP addresses to public IP addresses",
+      "c) To filter incoming network traffic based on IP addresses",
+      "d) To authenticate devices on a network"
+    ]
+  }
+]

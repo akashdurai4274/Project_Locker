@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which type of polymorphism is resolved during runtime in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Compile-time polymorphism",
+            "b) Static polymorphism",
+            "c) Run-time polymorphism",
+            "d) Dynamic polymorphism"
+        ]
+    },
+    {
+        "question": "2. Which of the following is an example of run-time polymorphism in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Method overriding",
+            "b) Method overloading",
+            "c) Constructor overloading",
+            "d) Constructor overriding"
+        ]
+    },
+    {
+        "question": "3. Which keyword is used to override a method in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) static",
+            "b) final",
+            "c) abstract",
+            "d) @Override"
+        ]
+    },
+    {
+        "question": "4. Can run-time polymorphism be achieved without inheritance?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only with abstract classes",
+            "d) Only with interfaces"
+        ]
+    },
+    {
+        "question": "5. Which of the following statements is true about run-time polymorphism?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) It is also known as early binding.",
+            "b) It requires the use of method overloading.",
+            "c) It is resolved at compile time.",
+            "d) It allows a subclass to provide a specific implementation of a method that is already provided by its superclass."
+        ]
+    },
+    {
+        "question": "6. Can a subclass override a private method of its superclass?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if the subclass is in the same package",
+            "d) Only if the subclass is in a different package"
+        ]
+    },
+    {
+        "question": "7. Which of the following is not a valid condition for method overriding?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) The method in the subclass must have the same name as the method in the superclass.",
+            "b) The method in the subclass must have the same parameters as the method in the superclass.",
+            "c) The method in the subclass must have a different return type from the method in the superclass.",
+            "d) The method in the subclass must have the same access modifier as the method in the superclass."
+        ]
+    },
+    {
+        "question": "8. Can a subclass override a static method of its superclass?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if the subclass is in the same package",
+            "d) Only if the subclass is in a different package"
+        ]
+    },
+    {
+        "question": "9. What is the main benefit of run-time polymorphism?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Improved code readability",
+            "b) Reduced method names",
+            "c) Simplified method invocation",
+            "d) Flexibility and extensibility of code"
+        ]
+    },
+    {
+        "question": "10. Which keyword is used to prevent a method from being overridden in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) static",
+            "b) final",
+            "c) private",
+            "d) @Override"
+        ]
+    }
+]

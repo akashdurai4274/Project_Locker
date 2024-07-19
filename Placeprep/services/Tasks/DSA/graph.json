@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a graph in data structures?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A collection of nodes and edges",
+      "b) A linear data structure",
+      "c) A hierarchical data structure",
+      "d) A sorted collection of elements"
+    ]
+  },
+  {
+    "question": "2. What is a vertex in a graph?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A directed edge",
+      "b) A node or point in the graph",
+      "c) A cycle in the graph",
+      "d) A connected component"
+    ]
+  },
+  {
+    "question": "3. What is an edge in a graph?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A connection between two vertices",
+      "b) A vertex in the graph",
+      "c) A cycle in the graph",
+      "d) A connected component"
+    ]
+  },
+  {
+    "question": "4. What is a directed graph?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A graph with no cycles",
+      "b) A graph where all edges have the same weight",
+      "c) A graph where edges have a direction",
+      "d) A graph with only one vertex"
+    ]
+  },
+  {
+    "question": "5. What is the degree of a vertex in a graph?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) The number of edges incident on a vertex",
+      "b) The weight of the vertex",
+      "c) The color of the vertex",
+      "d) The number of adjacent vertices"
+    ]
+  },
+  {
+    "question": "6. What is a weighted graph?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A graph where edges have associated weights",
+      "b) A graph with no cycles",
+      "c) A graph where all edges have the same weight",
+      "d) A graph with only one vertex"
+    ]
+  },
+  {
+    "question": "7. What is a cycle in a graph?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A path between two vertices",
+      "b) A connected component",
+      "c) A sequence of vertices and edges that begins and ends at the same vertex",
+      "d) A tree-like structure"
+    ]
+  },
+  {
+    "question": "8. What is a spanning tree in a graph?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A tree with no cycles",
+      "b) A tree that includes all vertices of the graph",
+      "c) A tree with a fixed number of edges",
+      "d) A tree-like structure"
+    ]
+  },
+  {
+    "question": "9. What is the adjacency matrix of a graph?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A matrix representation of edges between vertices",
+      "b) A list of vertices connected by edges",
+      "c) A tree with no cycles",
+      "d) A connected component"
+    ]
+  },
+  {
+    "question": "10. What is a connected graph?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A graph with no cycles",
+      "b) A graph with only one vertex",
+      "c) A graph where there is a path between every pair of vertices",
+      "d) A graph where edges have a direction"
+    ]
+  }
+]

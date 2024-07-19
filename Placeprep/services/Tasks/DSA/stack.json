@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a stack?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) A linear data structure with FIFO behavior",
+      "b) A hierarchical data structure",
+      "c) A linear data structure with variable capacity",
+      "d) A linear data structure with LIFO (Last In, First Out) behavior"
+    ]
+  },
+  {
+    "question": "2. Which operation adds an element to the top of the stack?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) push",
+      "b) pop",
+      "c) top",
+      "d) dequeue"
+    ]
+  },
+  {
+    "question": "3. Which operation removes the top element from the stack?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) push",
+      "b) pop",
+      "c) top",
+      "d) dequeue"
+    ]
+  },
+  {
+    "question": "4. Which of the following is not a common implementation of a stack?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Linked List",
+      "b) Array",
+      "c) Dynamic Array",
+      "d) Binary Tree"
+    ]
+  },
+  {
+    "question": "5. What is the time complexity of push and pop operations in a stack implemented using an array?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) O(1) for both push and pop",
+      "b) O(n) for push and O(1) for pop",
+      "c) O(log n) for both push and pop",
+      "d) O(n) for both push and pop"
+    ]
+  },
+  {
+    "question": "6. What is a LIFO data structure?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A data structure with FIFO behavior",
+      "b) A data structure with variable capacity",
+      "c) A data structure with LIFO behavior",
+      "d) A data structure with fixed capacity"
+    ]
+  },
+  {
+    "question": "7. Which operation is used to retrieve the top element of the stack without removing it?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) push",
+      "b) pop",
+      "c) top",
+      "d) dequeue"
+    ]
+  },
+  {
+    "question": "8. What is the maximum number of elements that can be stored in a stack with fixed capacity?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Limited by the capacity of the stack",
+      "b) Unlimited",
+      "c) Double the capacity of the stack",
+      "d) Equal to the capacity of the stack plus one"
+    ]
+  },
+  {
+    "question": "9. Which operation is used to check if a stack is empty?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) push",
+      "b) pop",
+      "c) top",
+      "d) isEmpty"
+    ]
+  },
+  {
+    "question": "10. Which data structure is often used to implement a stack with variable capacity?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Dynamic Array",
+      "b) Linked List",
+      "c) Circular Buffer",
+      "d) Array"
+    ]
+  }
+]

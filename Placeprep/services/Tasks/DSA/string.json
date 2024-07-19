@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a string?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A numeric data type",
+      "b) A sequence of characters",
+      "c) A collection of nodes and edges",
+      "d) A linear data structure"
+    ]
+  },
+  {
+    "question": "2. What is the length of a string?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) The number of characters in the string",
+      "b) The number of words in the string",
+      "c) The number of lines in the string",
+      "d) The number of bytes required to store the string"
+    ]
+  },
+  {
+    "question": "3. Which operation is used to concatenate two strings?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Concatenation",
+      "b) Substring",
+      "c) Comparison",
+      "d) Extraction"
+    ]
+  },
+  {
+    "question": "4. What is a substring?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) The first character of a string",
+      "b) A string with all characters in uppercase",
+      "c) A contiguous sequence of characters within a string",
+      "d) A string with all whitespace characters removed"
+    ]
+  },
+  {
+    "question": "5. What is the time complexity of accessing a character at a specific index in a string?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  },
+  {
+    "question": "6. What is string interpolation?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Manipulating strings to extract substrings",
+      "b) Concatenating strings using a loop",
+      "c) Comparing strings based on their lengths",
+      "d) Embedding expressions or variables within a string"
+    ]
+  },
+  {
+    "question": "7. What is the purpose of string formatting?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) To control the appearance and layout of strings",
+      "b) To convert strings to numbers",
+      "c) To perform mathematical operations on strings",
+      "d) To extract characters from strings"
+    ]
+  },
+  {
+    "question": "8. What is a palindrome?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A string with all characters in uppercase",
+      "b) A string with all whitespace characters removed",
+      "c) A string that reads the same backward as forward",
+      "d) A string containing only vowels"
+    ]
+  },
+  {
+    "question": "9. Which operation is used to find the index of the first occurrence of a substring within a string?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Concatenation",
+      "b) Substring",
+      "c) Comparison",
+      "d) Search"
+    ]
+  },
+  {
+    "question": "10. What is string manipulation?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Converting strings to numbers",
+      "b) Performing operations on strings to change or extract information",
+      "c) Concatenating strings",
+      "d) Extracting substrings from strings"
+    ]
+  }
+]

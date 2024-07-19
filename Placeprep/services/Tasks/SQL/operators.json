@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are operators in SQL?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Functions that modify table structure",
+            "b) Functions that perform data validation",
+            "c) Symbols or keywords used to perform operations on data",
+            "d) Constraints that enforce a specific condition on data values"
+        ]
+    },
+    {
+        "question": "2. Which operator is used to compare two values for equality?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) = (Equal)",
+            "b) != (Not Equal)",
+            "c) > (Greater Than)",
+            "d) < (Less Than)"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of the LIKE operator?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To perform arithmetic operations",
+            "b) To search for a specified pattern in a column",
+            "c) To compare two values for equality",
+            "d) To check if a value is NULL"
+        ]
+    },
+    {
+        "question": "4. Which operator is used to search for a range of values?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) = (Equal)",
+            "b) != (Not Equal)",
+            "c) BETWEEN",
+            "d) LIKE"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the IN operator?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To search for a specified pattern in a column",
+            "b) To compare two values for equality",
+            "c) To check if a value is NULL",
+            "d) To specify multiple values in a WHERE clause"
+        ]
+    },
+    {
+        "question": "6. Which operator is used to check if a value is NULL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) IS NULL",
+            "b) = (Equal)",
+            "c) != (Not Equal)",
+            "d) LIKE"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the IS NULL operator?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To perform arithmetic operations",
+            "b) To check if a value is NULL",
+            "c) To search for a specified pattern in a column",
+            "d) To compare two values for equality"
+        ]
+    },
+    {
+        "question": "8. Which operator is used to negate the result of a condition?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) = (Equal)",
+            "b) LIKE",
+            "c) NOT",
+            "d) BETWEEN"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the NOT operator?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To perform arithmetic operations",
+            "b) To check if a value is NULL",
+            "c) To search for a specified pattern in a column",
+            "d) To negate the result of a condition"
+        ]
+    },
+    {
+        "question": "10. Which operator is used to combine multiple conditions in a WHERE clause?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) AND",
+            "b) OR",
+            "c) NOT",
+            "d) XOR"
+        ]
+    }
+]

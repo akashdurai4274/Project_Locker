@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are clauses in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Functions that operate on individual rows of a table",
+            "b) Functions that modify table structure",
+            "c) Functions that perform data validation",
+            "d) Components of SQL statements that define conditions for retrieving or manipulating data"
+        ]
+    },
+    {
+        "question": "2. Which clause is used to specify the columns to be retrieved in a SELECT statement?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) FROM",
+            "b) SELECT",
+            "c) WHERE",
+            "d) GROUP BY"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of the WHERE clause?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To specify the tables to be joined in a query",
+            "b) To group rows that have the same values into summary rows",
+            "c) To filter rows based on a specified condition",
+            "d) To order the result set in ascending or descending order"
+        ]
+    },
+    {
+        "question": "4. Which clause is used to specify the order of the result set in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) SELECT",
+            "b) WHERE",
+            "c) GROUP BY",
+            "d) ORDER BY"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the GROUP BY clause?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To group rows that have the same values into summary rows",
+            "b) To filter rows based on a specified condition",
+            "c) To join tables based on a specified condition",
+            "d) To order the result set in ascending or descending order"
+        ]
+    },
+    {
+        "question": "6. Which clause is used to filter rows based on a specified condition?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) FROM",
+            "b) WHERE",
+            "c) SELECT",
+            "d) HAVING"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the HAVING clause?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To specify the tables to be joined in a query",
+            "b) To group rows that have the same values into summary rows",
+            "c) To filter rows based on a specified condition",
+            "d) To filter groups based on a specified condition"
+        ]
+    },
+    {
+        "question": "8. Which clause is used to specify the tables to be joined in a query?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) FROM",
+            "b) WHERE",
+            "c) GROUP BY",
+            "d) HAVING"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the ORDER BY clause?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To specify the columns to be retrieved in a SELECT statement",
+            "b) To filter rows based on a specified condition",
+            "c) To order the result set in ascending or descending order",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "10. Which clause is used to specify the conditions for grouping rows in a query?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) SELECT",
+            "b) WHERE",
+            "c) ORDER BY",
+            "d) GROUP BY"
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is an index in a database?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A table that contains information about columns in other tables",
+            "b) A function that modifies table structure",
+            "c) A data structure that improves the speed of data retrieval operations",
+            "d) A constraint that enforces a specific condition on data values"
+        ]
+    },
+    {
+        "question": "2. What is the primary purpose of creating indexes in a database?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To enforce data integrity",
+            "b) To improve the performance of data retrieval operations",
+            "c) To specify the order of the result set",
+            "d) To ensure that a column cannot contain NULL values"
+        ]
+    },
+    {
+        "question": "3. Which statement accurately describes the effect of creating an index?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) It increases the size of the database",
+            "b) It decreases the speed of data retrieval operations",
+            "c) It has no impact on database performance",
+            "d) It improves the speed of data retrieval operations but may increase the time required for data modification operations"
+        ]
+    },
+    {
+        "question": "4. Which type of index is created automatically by the database management system (DBMS) to enforce the PRIMARY KEY or UNIQUE constraints?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Clustered index",
+            "b) Non-clustered index",
+            "c) Composite index",
+            "d) Bitmap index"
+        ]
+    },
+    {
+        "question": "5. What is the main difference between a clustered index and a non-clustered index?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A clustered index is created automatically by the DBMS, while a non-clustered index is created manually",
+            "b) A clustered index does not affect the physical order of data on disk, while a non-clustered index does",
+            "c) A clustered index determines the physical order of data on disk, while a non-clustered index does not",
+            "d) A clustered index is always created on a unique column, while a non-clustered index is not"
+        ]
+    },
+    {
+        "question": "6. Which type of index is suitable for columns with low cardinality?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Clustered index",
+            "b) Non-clustered index",
+            "c) Composite index",
+            "d) Bitmap index"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of a composite index?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To ensure that a column cannot contain NULL values",
+            "b) To enforce a specific condition on data values",
+            "c) To specify the order of the result set",
+            "d) To index multiple columns together for improved query performance"
+        ]
+    },
+    {
+        "question": "8. Which statement accurately describes the use of a bitmap index?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) It is suitable for columns with low cardinality and high update frequency",
+            "b) It is suitable for columns with high cardinality and low update frequency",
+            "c) It is created automatically by the DBMS to enforce constraints",
+            "d) It is created manually by the database administrator"
+        ]
+    },
+    {
+        "question": "9. What is the primary disadvantage of using indexes?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) They decrease the speed of data retrieval operations",
+            "b) They increase the size of the database",
+            "c) They have no impact on database performance",
+            "d) They require additional storage space and may slow down data modification operations"
+        ]
+    },
+    {
+        "question": "10. Which type of index is typically used for columns with high cardinality?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Clustered index",
+            "b) Non-clustered index",
+            "c) Composite index",
+            "d) Bitmap index"
+        ]
+    }
+]

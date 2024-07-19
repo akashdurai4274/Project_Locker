@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is inheritance in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Reusing existing code",
+            "b) Exposing all methods and variables publicly",
+            "c) Hiding data within a method",
+            "d) Creating new classes based on existing classes"
+        ]
+    },
+    {
+        "question": "2. Which principle of OOP does inheritance relate to?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Code reuse",
+            "b) Data hiding",
+            "c) Polymorphism",
+            "d) Abstraction"
+        ]
+    },
+    {
+        "question": "3. Which keyword is used to implement inheritance in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) interface",
+            "b) extends",
+            "c) implements",
+            "d) this"
+        ]
+    },
+    {
+        "question": "4. What is the purpose of inheritance?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To hide data within a method",
+            "b) To create standalone classes",
+            "c) To promote code reuse and establish relationships between classes",
+            "d) To expose all methods and variables publicly"
+        ]
+    },
+    {
+        "question": "5. Which of the following statements is true about inheritance?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) It increases code complexity.",
+            "b) It limits code reusability.",
+            "c) It violates the principle of data hiding.",
+            "d) It allows a subclass to inherit methods and variables from its superclass."
+        ]
+    },
+    {
+        "question": "6. Which type of inheritance allows a class to inherit from multiple superclasses?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Multiple inheritance",
+            "b) Single inheritance",
+            "c) Hierarchical inheritance",
+            "d) Multilevel inheritance"
+        ]
+    },
+    {
+        "question": "7. Which of the following is a valid reason for using inheritance?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To limit code reusability",
+            "b) To increase code complexity",
+            "c) To promote code reuse and establish relationships between classes",
+            "d) To expose all methods and variables publicly"
+        ]
+    },
+    {
+        "question": "8. Can a subclass access private members of its superclass?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if the subclass is in the same package",
+            "d) Only if the subclass is in a different package"
+        ]
+    },
+    {
+        "question": "9. What is the relationship between a subclass and its superclass?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Unrelated",
+            "b) Opposite",
+            "c) Independent",
+            "d) Parent-child"
+        ]
+    },
+    {
+        "question": "10. Which keyword is used to prevent a class from being inherited in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) public",
+            "b) final",
+            "c) private",
+            "d) static"
+        ]
+    }
+]

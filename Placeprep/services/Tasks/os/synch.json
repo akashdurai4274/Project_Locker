@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is synchronization in operating systems?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Managing hardware resources",
+            "b) Allocating memory to processes",
+            "c) Controlling network traffic",
+            "d) Coordinating the execution of multiple processes to ensure correct and orderly operation"
+        ]
+    },
+    {
+        "question": "2. What is a critical section?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A section of code that is executed by multiple processes simultaneously",
+            "b) A section of code that is executed only once",
+            "c) A section of code that accesses shared resources and must be executed atomically",
+            "d) A section of code that is not executed by any process"
+        ]
+    },
+    {
+        "question": "3. What is a race condition?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A situation where processes compete for CPU time",
+            "b) A situation where the outcome of a program depends on the timing of uncontrollable events",
+            "c) A situation where multiple processes synchronize their execution",
+            "d) A situation where a process waits indefinitely for a resource"
+        ]
+    },
+    {
+        "question": "4. What is a semaphore?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) A hardware device",
+            "b) A system call",
+            "c) A data structure",
+            "d) A synchronization primitive used to control access to shared resources by multiple processes"
+        ]
+    },
+    {
+        "question": "5. What is a mutex?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) A synchronization primitive that allows only one process at a time to access a shared resource",
+            "b) A data structure used for inter-process communication",
+            "c) A system call",
+            "d) A type of scheduling algorithm"
+        ]
+    },
+    {
+        "question": "6. What is the dining philosophers problem?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A problem related to process scheduling",
+            "b) A deadlock detection algorithm",
+            "c) A classic synchronization problem that illustrates the challenges of resource allocation and deadlock avoidance",
+            "d) A memory management technique"
+        ]
+    },
+    {
+        "question": "7. What is a condition variable?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A variable used to store synchronization flags",
+            "b) A synchronization primitive used to block a thread until a certain condition is met",
+            "c) A variable used to control access to shared resources",
+            "d) A type of system call"
+        ]
+    },
+    {
+        "question": "8. What is the purpose of deadlock detection and recovery?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To identify and resolve deadlocks in the system",
+            "b) To prevent processes from entering a deadlock state",
+            "c) To increase system throughput",
+            "d) To optimize CPU usage"
+        ]
+    },
+    {
+        "question": "9. What is a race condition?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A situation where processes compete for CPU time",
+            "b) A situation where the outcome of a program depends on the timing of uncontrollable events",
+            "c) A situation where multiple processes synchronize their execution",
+            "d) A situation where a process waits indefinitely for a resource"
+        ]
+    },
+    {
+        "question": "10. What is deadlock prevention?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Allowing deadlocks to occur and then recovering from them",
+            "b) Identifying and resolving deadlocks after they occur",
+            "c) Ignoring deadlocks and continuing system operation",
+            "d) Designing algorithms and protocols to ensure that the conditions necessary for deadlock formation cannot occur"
+        ]
+    }
+]

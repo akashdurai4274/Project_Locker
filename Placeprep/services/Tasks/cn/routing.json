@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is routing in computer networking?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Sending data to devices on the same network",
+            "b) Determining the best path for data packets to travel across a network",
+            "c) Encrypting data for secure transmission",
+            "d) Establishing connections between devices"
+        ]
+    },
+    {
+        "question": "2. What is the primary role of a router in networking?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To connect devices within the same network",
+            "b) To transmit data between different networks",
+            "c) To provide security against cyber attacks",
+            "d) To store and manage network configuration files"
+        ]
+    },
+    {
+        "question": "3. What is dynamic routing?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Routing based on static tables",
+            "b) Routing based on manual configurations",
+            "c) Routing where routers dynamically learn and update routing tables",
+            "d) Routing using encryption for data transmission"
+        ]
+    },
+    {
+        "question": "4. Which routing protocol is commonly used within an autonomous system?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Interior Gateway Protocol (IGP)",
+            "b) Border Gateway Protocol (BGP)",
+            "c) Open Shortest Path First (OSPF)",
+            "d) Routing Information Protocol (RIP)"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of a routing table?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To store encryption keys",
+            "b) To filter incoming network traffic",
+            "c) To manage network security policies",
+            "d) To store information about available routes and next hops"
+        ]
+    },
+    {
+        "question": "6. What is the difference between static and dynamic routing?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Static routing uses encryption, while dynamic routing doesn't",
+            "b) Static routing is more secure than dynamic routing",
+            "c) Dynamic routing requires manual configuration, while static routing does not",
+            "d) Dynamic routing adapts to network changes by updating routing tables, while static routing uses fixed routes"
+        ]
+    },
+    {
+        "question": "7. What is a routing protocol?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A protocol used for encrypting data during transmission",
+            "b) A protocol used for managing network security policies",
+            "c) A protocol used by routers to communicate and share routing information",
+            "d) A protocol used for establishing connections between devices"
+        ]
+    },
+    {
+        "question": "8. Which type of routing protocol is best suited for small networks?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Exterior Gateway Protocol (EGP)",
+            "b) Interior Gateway Protocol (IGP)",
+            "c) Link-State Routing Protocol",
+            "d) Distance Vector Routing Protocol"
+        ]
+    },
+    {
+        "question": "9. What is a default route?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) A route used when no specific route matches a destination in the routing table",
+            "b) A route that is manually configured by the network administrator",
+            "c) A route used for routing within an autonomous system",
+            "d) A route used for routing between autonomous systems"
+        ]
+    },
+    {
+        "question": "10. What is the purpose of routing protocols like OSPF and RIP?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To establish secure connections between devices",
+            "b) To manage network security policies",
+            "c) To assign IP addresses to devices on a network",
+            "d) To dynamically update and maintain routing tables across routers in a network"
+        ]
+    }
+]

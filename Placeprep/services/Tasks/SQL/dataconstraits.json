@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are data constraints in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Functions that operate on individual rows of a table",
+            "b) Functions that modify table structure",
+            "c) Functions that perform data validation",
+            "d) Rules enforced on data columns to maintain data integrity and accuracy"
+        ]
+    },
+    {
+        "question": "2. Which data constraint ensures that every row in a table has a unique value for a specific column or combination of columns?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) NOT NULL",
+            "b) UNIQUE",
+            "c) CHECK",
+            "d) PRIMARY KEY"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of the PRIMARY KEY constraint?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To ensure that a column cannot contain NULL values",
+            "b) To enforce a specific condition on data values",
+            "c) To uniquely identify each row in a table",
+            "d) To specify a default value for a column"
+        ]
+    },
+    {
+        "question": "4. Which data constraint ensures that a column cannot contain NULL values?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) NOT NULL",
+            "b) UNIQUE",
+            "c) CHECK",
+            "d) FOREIGN KEY"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of the FOREIGN KEY constraint?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To ensure that a column cannot contain NULL values",
+            "b) To enforce a specific condition on data values",
+            "c) To specify a default value for a column",
+            "d) To enforce referential integrity between two tables"
+        ]
+    },
+    {
+        "question": "6. Which data constraint enforces a specific condition on data values?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) NOT NULL",
+            "b) UNIQUE",
+            "c) CHECK",
+            "d) PRIMARY KEY"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of the UNIQUE constraint?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To ensure that a column cannot contain NULL values",
+            "b) To ensure that every value in a column or combination of columns is unique",
+            "c) To enforce referential integrity between two tables",
+            "d) To specify a default value for a column"
+        ]
+    },
+    {
+        "question": "8. Which data constraint is used to enforce referential integrity between two tables?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) FOREIGN KEY",
+            "b) UNIQUE",
+            "c) CHECK",
+            "d) PRIMARY KEY"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the CHECK constraint?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To ensure that a column cannot contain NULL values",
+            "b) To enforce a specific condition on data values",
+            "c) To specify a default value for a column",
+            "d) To uniquely identify each row in a table"
+        ]
+    },
+    {
+        "question": "10. Which data constraint uniquely identifies each row in a table?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) NOT NULL",
+            "b) UNIQUE",
+            "c) CHECK",
+            "d) PRIMARY KEY"
+        ]
+    }
+]

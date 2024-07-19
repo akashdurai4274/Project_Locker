@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are functions in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Operations that modify table structure",
+            "b) Operations that perform data validation",
+            "c) Operations that retrieve or manipulate data",
+            "d) Blocks of reusable code that perform a specific task"
+        ]
+    },
+    {
+        "question": "2. Which of the following is not a type of function in SQL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Table function",
+            "b) Scalar function",
+            "c) Aggregate function",
+            "d) Stored function"
+        ]
+    },
+    {
+        "question": "3. What is the purpose of a scalar function?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To return multiple values as a single result",
+            "b) To group rows that have the same values into summary rows",
+            "c) To perform a computation on a single value and return the result",
+            "d) To perform an operation on a set of values and return a single value"
+        ]
+    },
+    {
+        "question": "4. Which type of function returns a single value based on a group of values?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Table function",
+            "b) Aggregate function",
+            "c) Scalar function",
+            "d) Stored function"
+        ]
+    },
+    {
+        "question": "5. What is the purpose of a table function?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To return multiple values as a single result set",
+            "b) To perform a computation on a single value and return the result",
+            "c) To perform an operation on a set of values and return a single value",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "6. Which type of function can be used to perform complex calculations and return multiple rows and columns?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Aggregate function",
+            "b) Scalar function",
+            "c) Inline function",
+            "d) Table function"
+        ]
+    },
+    {
+        "question": "7. What is the purpose of an aggregate function?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) To return multiple values as a single result",
+            "b) To perform a computation on a single value and return the result",
+            "c) To perform an operation on a set of values and return a single value",
+            "d) To group rows that have the same values into summary rows"
+        ]
+    },
+    {
+        "question": "8. Which type of function is stored on the database server and can be invoked from SQL statements?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Table function",
+            "b) Scalar function",
+            "c) Inline function",
+            "d) Stored function"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of a user-defined function (UDF) in SQL?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To group rows that have the same values into summary rows",
+            "b) To allow users to create custom functions for specific tasks",
+            "c) To perform a computation on a single value and return the result",
+            "d) To perform an operation on a set of values and return a single value"
+        ]
+    },
+    {
+        "question": "10. Which type of function can be used to encapsulate complex logic and reuse it across multiple SQL statements?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Aggregate function",
+            "b) Scalar function",
+            "c) Inline function",
+            "d) Stored function"
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. How many layers are there in the TCP/IP model?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Three",
+            "b) Four",
+            "c) Five",
+            "d) Seven"
+        ]
+    },
+    {
+        "question": "2. What is the primary function of the Transport Layer in the TCP/IP model?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Packet routing",
+            "b) End-to-end communication",
+            "c) Data link establishment",
+            "d) Physical media transmission"
+        ]
+    },
+    {
+        "question": "3. Which layer of the TCP/IP model is responsible for IP addressing and routing?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Application Layer",
+            "b) Transport Layer",
+            "c) Internet Layer",
+            "d) Network Interface Layer"
+        ]
+    },
+    {
+        "question": "4. What is the purpose of the Network Interface Layer in the TCP/IP model?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To handle communication with the physical network hardware",
+            "b) To establish end-to-end communication",
+            "c) To format data for presentation",
+            "d) To manage network security"
+        ]
+    },
+    {
+        "question": "5. Which layer of the TCP/IP model is responsible for formatting data for presentation to the user?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Application Layer",
+            "b) Transport Layer",
+            "c) Internet Layer",
+            "d) Presentation Layer"
+        ]
+    },
+    {
+        "question": "6. What is the primary protocol used at the Transport Layer of the TCP/IP model?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) IP",
+            "b) TCP",
+            "c) UDP",
+            "d) ICMP"
+        ]
+    },
+    {
+        "question": "7. What protocol operates at the Internet Layer of the TCP/IP model for addressing and routing packets?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) IP",
+            "b) TCP",
+            "c) UDP",
+            "d) ICMP"
+        ]
+    },
+    {
+        "question": "8. Which layer of the TCP/IP model is responsible for end-to-end communication between applications?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Application Layer",
+            "b) Transport Layer",
+            "c) Internet Layer",
+            "d) Network Interface Layer"
+        ]
+    },
+    {
+        "question": "9. What is the function of the Application Layer in the TCP/IP model?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Addressing and routing packets",
+            "b) Ensuring reliable data delivery",
+            "c) Providing network services to applications",
+            "d) Managing network hardware"
+        ]
+    },
+    {
+        "question": "10. What protocol operates at the Application Layer of the TCP/IP model for various network services?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) IP",
+            "b) TCP",
+            "c) UDP",
+            "d) HTTP"
+        ]
+    }
+]

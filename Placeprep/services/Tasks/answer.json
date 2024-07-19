@@ -1,0 +1,10 @@
+{
+    "concept": "Inheritance",
+    "description": "Inheritance is a concept in object-oriented programming where a new class (subclass) can inherit attributes and methods from an existing class (superclass). This allows for code reuse and the creation of a hierarchy of classes, where subclasses can specialize and extend the functionality of their superclass.",
+    "key_points": [
+        "Inheritance: It's a concept in object-oriented programming.",
+        "Subclass and Superclass: Inheritance involves creating a new class (subclass) that can inherit attributes and methods from an existing class (superclass).",
+        "Code Reuse: Inheritance allows for reusing code from the superclass in the subclass.",
+        "Hierarchy: It enables the creation of a hierarchy of classes where subclasses can specialize and extend the functionality of their superclass."
+    ]
+}

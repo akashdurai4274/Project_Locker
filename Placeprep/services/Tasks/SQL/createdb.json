@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is the purpose of the CREATE DATABASE statement in SQL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To create a new database",
+            "b) To create a new table",
+            "c) To insert data into a table",
+            "d) To delete a database"
+        ]
+    },
+    {
+        "question": "2. Which SQL command is used to create a new database?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) ALTER DATABASE",
+            "b) DROP DATABASE",
+            "c) CREATE DATABASE",
+            "d) USE DATABASE"
+        ]
+    },
+    {
+        "question": "3. What is the syntax for creating a new database in SQL?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) CREATE DATABASE database_name",
+            "b) CREATE DATABASE database_name;",
+            "c) DATABASE database_name;",
+            "d) ADD DATABASE database_name"
+        ]
+    },
+    {
+        "question": "4. Which of the following is a valid database name?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) 123_database",
+            "b) my database",
+            "c) database123",
+            "d) my_database"
+        ]
+    },
+    {
+        "question": "5. What happens if you try to create a database with an existing name?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) The existing database will be overwritten",
+            "b) An error will be thrown",
+            "c) The new database will be created with a different name",
+            "d) The operation will be ignored"
+        ]
+    },
+    {
+        "question": "6. Which privilege is required to create a database?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) CREATE privilege",
+            "b) DELETE privilege",
+            "c) UPDATE privilege",
+            "d) SELECT privilege"
+        ]
+    },
+    {
+        "question": "7. What is the default character set for a new database in MySQL?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) ASCII",
+            "b) utf8mb4",
+            "c) UTF-16",
+            "d) Latin1"
+        ]
+    },
+    {
+        "question": "8. Which statement is used to change the character set of an existing database?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) ALTER DATABASE",
+            "b) DROP DATABASE",
+            "c) ALTER DATABASE",
+            "d) USE DATABASE"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of the DATABASE keyword in SQL?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) To specify the tables to be joined in a query",
+            "b) To filter rows based on a specified condition",
+            "c) To order the result set in ascending or descending order",
+            "d) To specify the database context for subsequent SQL statements"
+        ]
+    },
+    {
+        "question": "10. What is the purpose of the USE statement in SQL?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To specify the database context for subsequent SQL statements",
+            "b) To create a new database",
+            "c) To drop an existing database",
+            "d) To delete all data from a table"
+        ]
+    }
+]

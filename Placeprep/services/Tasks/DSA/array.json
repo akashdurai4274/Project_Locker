@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is the time complexity of accessing an element in an array?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  },
+  {
+    "question": "2. Which data structure best represents an array?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Linked List",
+      "b) Stack",
+      "c) Queue",
+      "d) Contiguous block of memory"
+    ]
+  },
+  {
+    "question": "3. What is the index of the first element in an array?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) 0",
+      "b) 1",
+      "c) Depends on the programming language",
+      "d) -1"
+    ]
+  },
+  {
+    "question": "4. What is the maximum number of elements that can be stored in an array?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Depends on the available memory",
+      "b) Limited by the size of the data type used",
+      "c) Unlimited",
+      "d) None of the above"
+    ]
+  },
+  {
+    "question": "5. Which operation on arrays is not constant time?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Accessing an element by index",
+      "b) Assigning a value to an element by index",
+      "c) Removing an element from the middle of the array",
+      "d) Adding an element to the end of the array"
+    ]
+  },
+  {
+    "question": "6. What is the memory allocation of a two-dimensional array?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Contiguous block of memory",
+      "b) Array of arrays",
+      "c) Linked list",
+      "d) Hash table"
+    ]
+  },
+  {
+    "question": "7. Which of the following operations on arrays is generally slow?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Accessing an element by index",
+      "b) Assigning a value to an element by index",
+      "c) Searching for an element",
+      "d) Iterating through all elements"
+    ]
+  },
+  {
+    "question": "8. What is the time complexity of searching for an element in an unsorted array?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  },
+  {
+    "question": "9. Which operation on arrays involves shifting elements?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Accessing an element by index",
+      "b) Assigning a value to an element by index",
+      "c) Removing an element from the end of the array",
+      "d) Removing an element from the middle of the array"
+    ]
+  },
+  {
+    "question": "10. Which data structure is similar to a dynamic array?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) ArrayList",
+      "b) Linked List",
+      "c) Stack",
+      "d) Queue"
+    ]
+  }
+]

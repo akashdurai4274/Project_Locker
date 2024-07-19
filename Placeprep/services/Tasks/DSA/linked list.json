@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a linked list?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A linear data structure with contiguous memory allocation",
+      "b) A linear collection of elements where each element points to the next one",
+      "c) A hierarchical data structure",
+      "d) A sorted collection of elements"
+    ]
+  },
+  {
+    "question": "2. What is the advantage of a doubly linked list over a singly linked list?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Lower memory usage",
+      "b) Faster traversal",
+      "c) Easier implementation",
+      "d) Ability to traverse in both directions"
+    ]
+  },
+  {
+    "question": "3. What is the time complexity of inserting a node at the beginning of a linked list?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  },
+  {
+    "question": "4. What is a tail node in a linked list?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) The first node",
+      "b) A node with a null pointer",
+      "c) The last node",
+      "d) A node with multiple pointers"
+    ]
+  },
+  {
+    "question": "5. What operation is not supported in a singly linked list?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Insertion at the beginning",
+      "b) Deletion in constant time",
+      "c) Traversal",
+      "d) Insertion at the end"
+    ]
+  },
+  {
+    "question": "6. Which of the following is a disadvantage of linked lists compared to arrays?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Dynamic size",
+      "b) Constant time access to elements",
+      "c) Ease of insertion and deletion",
+      "d) Increased memory usage"
+    ]
+  },
+  {
+    "question": "7. What is a circular linked list?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A linked list where the last node points to the first node",
+      "b) A linked list with only one node",
+      "c) A linked list with a null pointer",
+      "d) A linked list with multiple tails"
+    ]
+  },
+  {
+    "question": "8. What is the purpose of a dummy node in a linked list?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A node with invalid data",
+      "b) A placeholder node used for simplifying operations",
+      "c) A node with multiple pointers",
+      "d) A node with a null pointer"
+    ]
+  },
+  {
+    "question": "9. Which operation requires traversing the entire linked list?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Insertion at the beginning",
+      "b) Deletion at the end",
+      "c) Searching for a specific element",
+      "d) Insertion at a specific position"
+    ]
+  },
+  {
+    "question": "10. What is the time complexity of deleting a node from the middle of a linked list?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) O(1)",
+      "b) O(n)",
+      "c) O(log n)",
+      "d) O(n^2)"
+    ]
+  }
+]

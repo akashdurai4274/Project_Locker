@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which network topology connects all devices to a central hub or switch?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Star",
+            "b) Ring",
+            "c) Bus",
+            "d) Mesh"
+        ]
+    },
+    {
+        "question": "2. What is the main advantage of a mesh network topology?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) Ease of installation",
+            "b) Low cost",
+            "c) Redundancy and fault tolerance",
+            "d) Centralized control"
+        ]
+    },
+    {
+        "question": "3. In which network topology does each device have a dedicated point-to-point connection with every other device?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Star",
+            "b) Ring",
+            "c) Bus",
+            "d) Full Mesh"
+        ]
+    },
+    {
+        "question": "4. What is a disadvantage of a bus network topology?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Difficult to expand",
+            "b) Single point of failure",
+            "c) High cost",
+            "d) Complexity of installation"
+        ]
+    },
+    {
+        "question": "5. Which network topology provides the highest level of redundancy?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Star",
+            "b) Ring",
+            "c) Bus",
+            "d) Mesh"
+        ]
+    },
+    {
+        "question": "6. What is the purpose of a terminator in a bus network?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To absorb signals and prevent reflections",
+            "b) To connect devices together",
+            "c) To provide centralized control",
+            "d) To increase network speed"
+        ]
+    },
+    {
+        "question": "7. Which network topology is commonly used in wireless networks?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Star",
+            "b) Mesh",
+            "c) Bus",
+            "d) Ring"
+        ]
+    },
+    {
+        "question": "8. What is the main advantage of a ring network topology?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Ease of installation",
+            "b) Low cost",
+            "c) Redundancy",
+            "d) Fast data transfer"
+        ]
+    },
+    {
+        "question": "9. What is the purpose of a hub in a star network?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) To centralize network connections",
+            "b) To provide wireless access",
+            "c) To connect devices in a loop",
+            "d) To manage network security"
+        ]
+    },
+    {
+        "question": "10. What network topology is characterized by a series of interconnected nodes forming a closed loop?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) Star",
+            "b) Mesh",
+            "c) Bus",
+            "d) Ring"
+        ]
+    }
+]

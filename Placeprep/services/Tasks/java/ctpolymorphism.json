@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. Which type of polymorphism is resolved during compile time in Java?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Run-time polymorphism",
+      "b) Compile-time polymorphism",
+      "c) Dynamic polymorphism",
+      "d) Static polymorphism"
+    ]
+  },
+  {
+    "question": "2. Which of the following is an example of compile-time polymorphism in Java?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Method overloading",
+      "b) Method overriding",
+      "c) Constructor overloading",
+      "d) Constructor overriding"
+    ]
+  },
+  {
+    "question": "3. In method overloading, what is used to differentiate between methods?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Method names",
+      "b) Return types",
+      "c) Number or types of parameters",
+      "d) Access modifiers"
+    ]
+  },
+  {
+    "question": "4. Can method overloading be performed within the same class?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Yes",
+      "b) No",
+      "c) Only with abstract methods",
+      "d) Only with static methods"
+    ]
+  },
+  {
+    "question": "5. Which of the following statements is true about compile-time polymorphism?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) It is also known as late binding.",
+      "b) It requires the use of inheritance.",
+      "c) It is resolved at runtime.",
+      "d) It is resolved at compile time."
+    ]
+  },
+  {
+    "question": "6. Can the return type of overloaded methods be different?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Yes",
+      "b) No",
+      "c) Only for private methods",
+      "d) Only for static methods"
+    ]
+  },
+  {
+    "question": "7. Which of the following is not a valid condition for method overloading?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Different number of parameters",
+      "b) Different order of parameters",
+      "c) Same number and types of parameters",
+      "d) Different types of parameters"
+    ]
+  },
+  {
+    "question": "8. Can methods in Java be overloaded based on return type alone?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Yes",
+      "b) No",
+      "c) Only for static methods",
+      "d) Only for private methods"
+    ]
+  },
+  {
+    "question": "9. What is the purpose of compile-time polymorphism?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) To provide multiple methods with the same name but different parameters",
+      "b) To provide multiple methods with the same name and same parameters",
+      "c) To provide multiple methods with the same name and different return types",
+      "d) To provide multiple methods with the same name and same return type"
+    ]
+  },
+  {
+    "question": "10. Which of the following is not an advantage of method overloading?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Improved code readability",
+      "b) Reduced method names",
+      "c) Simplified method invocation",
+      "d) Increased code complexity"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is a class in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) An instance of an object",
+            "b) A variable",
+            "c) A blueprint for creating objects",
+            "d) A loop construct"
+        ]
+    },
+    {
+        "question": "2. What is an object in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) A data type",
+            "b) An instance of a class",
+            "c) A control structure",
+            "d) A built-in function"
+        ]
+    },
+    {
+        "question": "3. Which keyword is used to create an object in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) new",
+            "b) this",
+            "c) class",
+            "d) Object"
+        ]
+    },
+    {
+        "question": "4. What is the purpose of a constructor in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) To destroy objects",
+            "b) To initialize objects",
+            "c) To copy objects",
+            "d) To compare objects"
+        ]
+    },
+    {
+        "question": "5. Which of the following statements is true about constructors?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Constructors can have a return type.",
+            "b) Constructors cannot be overloaded.",
+            "c) Constructors can be inherited.",
+            "d) Constructors have the same name as the class."
+        ]
+    },
+    {
+        "question": "6. What is the default constructor in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) A constructor with no parameters",
+            "b) A constructor with parameters",
+            "c) A constructor provided by Java if no constructors are defined",
+            "d) A constructor provided by the JVM"
+        ]
+    },
+    {
+        "question": "7. Which keyword is used to refer to the current object in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) new",
+            "b) this",
+            "c) super",
+            "d) final"
+        ]
+    },
+    {
+        "question": "8. What is the purpose of the 'this' keyword in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Referring to the superclass",
+            "b) Referring to a static variable",
+            "c) Referring to a local variable",
+            "d) Referring to the current object"
+        ]
+    },
+    {
+        "question": "9. Can a class have multiple constructors?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Yes",
+            "b) No",
+            "c) Only if the class is final",
+            "d) Only if the class is abstract"
+        ]
+    },
+    {
+        "question": "10. Which method is automatically called when an object is created in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) finalize()",
+            "b) delete()",
+            "c) constructor()",
+            "d) new()"
+        ]
+    }
+]

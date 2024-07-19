@@ -1,0 +1,105 @@
+[
+    
+      {
+        "question": "1. What is an array in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+          "a) A collection of elements of different data types",
+          "b) A collection of elements of the same data type",
+          "c) A collection of key-value pairs",
+          "d) A collection of elements with dynamic size"
+        ]
+      },
+      {
+        "question": "2. How do you declare an array in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "a) int array[]",
+          "b) array int[]",
+          "c) int[] array",
+          "d) int array{}"
+        ]
+      },
+      {
+        "question": "3. What is the index of the first element in an array in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "a) 0",
+          "b) 1",
+          "c) -1",
+          "d) Depends on the length of the array"
+        ]
+      },
+      {
+        "question": "4. Which of the following statements is true regarding arrays in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "a) Arrays can only store primitive data types.",
+          "b) Arrays can only store objects.",
+          "c) Arrays can store both primitive data types and objects.",
+          "d) Arrays can store strings only."
+        ]
+      },
+      {
+        "question": "5. How do you access the third element of an array named 'arr' in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "a) arr[2]",
+          "b) arr[3]",
+          "c) arr[0]",
+          "d) arr[1]"
+        ]
+      },
+      {
+        "question": "6. What happens if you try to access an index that is out of bounds in an array?",
+        "correctAnswerIndex": 1,
+        "options": [
+          "a) Compilation error",
+          "b) Runtime error",
+          "c) Undefined behavior",
+          "d) The program exits gracefully"
+        ]
+      },
+      {
+        "question": "7. What is the length of an array in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+          "a) The number of elements in the array",
+          "b) The maximum index value of the array",
+          "c) The number of rows in the array",
+          "d) The number of columns in the array"
+        ]
+      },
+      {
+        "question": "8. How do you initialize an array in Java?",
+        "correctAnswerIndex": 2,
+        "options": [
+          "a) Using the 'initialize' keyword",
+          "b) Using a loop to assign values to each element",
+          "c) Using curly braces with comma-separated values",
+          "d) Arrays cannot be initialized directly"
+        ]
+      },
+      {
+        "question": "9. Which of the following statements is true about arrays in Java?",
+        "correctAnswerIndex": 1,
+        "options": [
+          "a) Arrays can be resized dynamically.",
+          "b) The size of an array cannot be changed after initialization.",
+          "c) Arrays can only be used to store homogeneous data types.",
+          "d) Arrays automatically adjust their size based on the number of elements added."
+        ]
+      },
+      {
+        "question": "10. What is the output of the following code snippet?\n\nint[] numbers = {1, 2, 3, 4, 5};\nSystem.out.println(numbers.length);",
+        "correctAnswerIndex": 1,
+        "options": [
+          "a) 1",
+          "b) 5",
+          "c) 6",
+          "d) Compile-time error"
+        ]
+      }
+    
+    ]
+  

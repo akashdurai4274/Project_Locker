@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What are control statements in Java?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) Statements that control the flow of data in a program",
+            "b) Statements that define the structure of a program",
+            "c) Statements that allocate memory for variables",
+            "d) Statements that control the execution of code blocks"
+        ]
+    },
+    {
+        "question": "2. Which of the following is not a type of control statement in Java?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) Class declaration",
+            "b) if-else",
+            "c) switch",
+            "d) for"
+        ]
+    },
+    {
+        "question": "3. Which control statement is used to execute a block of code only if a condition is true?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) do-while"
+        ]
+    },
+    {
+        "question": "4. Which control statement is used to execute a block of code repeatedly as long as a condition is true?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) do-while"
+        ]
+    },
+    {
+        "question": "5. Which control statement is used to execute a block of code at least once and then repeat it as long as a condition is true?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) do-while"
+        ]
+    },
+    {
+        "question": "6. Which control statement is used to select one of many code blocks to execute?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) do-while"
+        ]
+    },
+    {
+        "question": "7. Which control statement is used to exit a loop prematurely?",
+        "correctAnswerIndex": 3,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) break"
+        ]
+    },
+    {
+        "question": "8. Which control statement is used to skip the remaining code in a loop and continue with the next iteration?",
+        "correctAnswerIndex": 2,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) continue"
+        ]
+    },
+    {
+        "question": "9. Which control statement is used to define the code to be executed if a condition is not true?",
+        "correctAnswerIndex": 1,
+        "options": [
+            "a) switch",
+            "b) else",
+            "c) while",
+            "d) do-while"
+        ]
+    },
+    {
+        "question": "10. Which control statement is used to execute different blocks of code based on different conditions?",
+        "correctAnswerIndex": 0,
+        "options": [
+            "a) switch",
+            "b) if-else",
+            "c) while",
+            "d) do-while"
+        ]
+    }
+]

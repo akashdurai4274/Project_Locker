@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. What is a tree?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A linear data structure",
+      "b) A hierarchical data structure",
+      "c) A collection of nodes and edges",
+      "d) A linear collection of elements"
+    ]
+  },
+  {
+    "question": "2. What is a node in a tree?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A leaf of the tree",
+      "b) A parent of the tree",
+      "c) An element in the tree that contains data and links to other nodes",
+      "d) A root of the tree"
+    ]
+  },
+  {
+    "question": "3. What is a binary tree?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A tree in which each node has at most two children",
+      "b) A tree with only one node",
+      "c) A tree with three or more children for each node",
+      "d) A tree with no children"
+    ]
+  },
+  {
+    "question": "4. What is a leaf node in a tree?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) The root of the tree",
+      "b) A node with only one child",
+      "c) A node with more than two children",
+      "d) A node with no children"
+    ]
+  },
+  {
+    "question": "5. What is a binary search tree (BST)?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A tree with only one node",
+      "b) A tree with at most one child for each node",
+      "c) A binary tree where the left child is less than the parent and the right child is greater",
+      "d) A tree with no children"
+    ]
+  },
+  {
+    "question": "6. What is the height of a tree?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) The number of nodes in the tree",
+      "b) The maximum depth of the tree",
+      "c) The sum of the depths of all nodes",
+      "d) The minimum depth of the tree"
+    ]
+  },
+  {
+    "question": "7. What is a balanced tree?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A tree where the height of the left and right subtrees of every node differ by at most one",
+      "b) A tree with only one node",
+      "c) A tree with at most one child for each node",
+      "d) A tree with no children"
+    ]
+  },
+  {
+    "question": "8. Which traversal visits the root node first, then the left subtree, and finally the right subtree?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) Postorder traversal",
+      "b) Inorder traversal",
+      "c) Preorder traversal",
+      "d) Level order traversal"
+    ]
+  },
+  {
+    "question": "9. What is a full binary tree?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) A tree with only one node",
+      "b) A tree with at most one child for each node",
+      "c) A binary tree with exactly two children for each node",
+      "d) A binary tree where each node has either zero or two children"
+    ]
+  },
+  {
+    "question": "10. Which operation is used to delete a node from a binary search tree?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) Insertion",
+      "b) Deletion",
+      "c) Search",
+      "d) Traversal"
+    ]
+  }
+]
