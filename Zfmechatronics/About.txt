@@ -1,0 +1,14 @@
+# Appliacation: Zfmechetronics.
+
+# Title: Machinery Maintenance Application
+
+# About: This project aims to streamline machinery maintenance processes by providing a comprehensive solution
+         to track stock and manage error mechanisms. It leverages Java for the application development and Firebase
+         for real-time database management.
+
+# Mission: Develop a mobile application for Ashok Leyland Company to manage stock and error mechanisms
+           for machineries, ensuring efficient maintenance and operation.
+
+# Tech Stack: Frontend: Java
+              Backend: Firebase
+  
