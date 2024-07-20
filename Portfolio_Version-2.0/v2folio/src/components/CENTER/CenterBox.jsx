@@ -1,11 +1,6 @@
 import { useEffect } from "react";
 import MainPage from "./MainPage";
 import Skills from "../TopContent/Skill/Skills";
-import PropTypes from "prop-types";
-import Resume from "../TopContent/Resume/Resume";
-import "./subcss.css";
-import Project from "../TopContent/Project/Project";
-import Continue from "./Continue";
 import Back from "./back";
 import Certificate from "../TopContent/Certificate"
 const CenterBox = ({ page, setPage }) => {
@@ -15,11 +10,8 @@ const CenterBox = ({ page, setPage }) => {
 
   const loadpage = (page) => {
     const pages = {
-      1: <MainPage setPage={setPage} />,
-      2: <Skills />,
-      3: <Project />,
-      4: <Resume />,
-      5:<Certificate/>
+      1: <MainPage setPage={setPage} />
+      2:<Certificate/>
     };
     return pages[page];
   };
@@ -33,9 +25,6 @@ const CenterBox = ({ page, setPage }) => {
     }[page] || "bg-white";
 
   const handleclick = () => {
-    if (parseInt(page) === 5) {
-      setPage(false);
-    } else {
       setPage((prevPage) => (parseInt(prevPage) + 1).toString());
     }
   };
@@ -51,7 +40,7 @@ const CenterBox = ({ page, setPage }) => {
       {loadpage(page)}
       <div className="flex justify-around">
         {parseInt(page) !== 1 && <Back handlebackclick={handlebackclick} />}
-        {parseInt(page) !== 5 && <Continue handleclick={handleclick} />}
+       
       </div>
     </div>
   );
