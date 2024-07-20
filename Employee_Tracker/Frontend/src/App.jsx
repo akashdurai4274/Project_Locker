@@ -2,11 +2,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Login from "./pages/Login/Login"; // Import your Login component
 import { AuthProvider } from "./context/AuthContext"; // Ensure to import your AuthProvider
-import MainPages from "./components/stepper/MainPage";
-import Dashboards from "./pages/Dashboard";
-import Employeelist from "./pages/EmployeeList";
-import Addemployees from "./pages/AddEmployee";
-import { Navbar } from "@material-tailwind/react";
 import MainPage from "./components/Mainpage/MainPage";
 import Profile from "./pages/Profile";
 const App = () => {
