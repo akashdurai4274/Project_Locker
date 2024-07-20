@@ -18,9 +18,6 @@ const App = () => {
         <div className="h-full p-5 px-10 mx-auto bg-white font-base">
           <Routes>
             <Route path="/" element={<Login />} />
-            <Route path="/main" element={<MainPage />} />
-            <Route path="/navbar" element={<Navbar />} />
-            <Route path="/dashboard" element={<MainPages />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="/employees" element={<Employeelist />} />
             {/* <Route path="/profile" element={<Profile />} /> */}
