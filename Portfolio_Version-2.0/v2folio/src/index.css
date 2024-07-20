@@ -1,0 +1,109 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.body {
+    height: 100vh;
+    width: 100%;
+    background: #dde1e7;
+    display: flex;
+
+}
+
+.div {
+    background: #dde1e7;
+}
+
+.sq-div {
+    box-shadow: inset -5px -5px 9px rgba(255, 255, 255, 0.45), inset 5px 5px 9px rgba(94, 104, 121, 0.3);
+}
+
+/* .sq-div {
+    box-shadow: inset -5px -5px 9px rgba(255, 255, 255, 0.45), inset 5px 5px 9px rgba(94, 104, 121, 0.3);
+} */
+.sq-vid {
+    box-shadow: inset 5px 5px 9px rgba(94, 104, 121, 0.3), inset -5px -5px 9px rgba(255, 255, 255, 0.45);
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 50%;
+    box-shadow: -5px -5px 9px rgba(255, 255, 255, 0.45), 5px 5px 9px rgba(94, 104, 121, 0.3);
+}
+
+.circle::after {
+    content: '';
+    position: absolute;
+    height: 80%;
+    width: 80%;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: inset -5px -5px 9px rgba(255, 255, 255, 0.45), inset 5px 5px 9px rgba(94, 104, 121, 0.3);
+}
+
+.threed {
+        background: white;
+            box-shadow: 2px 1px 7px #ababab,
+                -3px -3px 4px #c5c5c5;
+                
+}
+
+.threeds {
+    background: white;
+    box-shadow: 2px 1px 7px #cbcbcb,
+        -3px -3px 4px #c5c5c5;
+
+}
+
+/* Ripple Animations */
+.circles {
+    height: 60px;
+    position: relative;
+    width: 60px;
+
+    div {
+        animation: growAndFade 3s infinite ease-out;
+        background-color: rgb(88, 9, 88);
+        border-radius: 50%;
+        height: 100%;
+        opacity: 0;
+        position: absolute;
+        width: 100%;
+    }
+
+    .circle1 {
+        animation-delay: 1s;
+    }
+
+    .circle2 {
+        animation-delay: 2s;
+    }
+
+    .circle3 {
+        animation-delay: 3s;
+    }
+}
+
+@keyframes growAndFade {
+    0% {
+        opacity: .25;
+        transform: scale(0);
+    }
+
+    100% {
+        opacity: 0;
+        transform: scale(1);
+    }
+}
+
+.neo{
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+        box-shadow: 5px 5px 10px #bdbdbd,
+            -5px -5px 10px #ffffff;
+}

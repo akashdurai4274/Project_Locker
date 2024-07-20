@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            color: rgb(201, 0, 201);
+            height: 100vh;
+            width: 100%;
+            background: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        div {
+            height: 150px;
+            width: 150px;
+            background: white;
+            border-radius: 20px;
+            margin: 20px;
+        }
+
+        .circle {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            border-radius: 50%;
+            box-shadow:  5px 5px 9px rgba(94, 104, 121, 0.3), 5px 5px 9px rgba(94, 104, 121, 0.3);
+        }
+
+        .circle::after {
+            content: '';
+            position: absolute;
+            height: 80%;
+            width: 80%;
+            background-color: transparent;
+            border-radius: 50%;
+            box-shadow: inset  5px 5px 9px rgba(94, 104, 121, 0.3), inset 5px 5px 9px rgba(94, 104, 121, 0.3);
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="box"></div>
+    <div class="box2"></div>
+    <div class="circle"></div>
+</body>
+
+</html>

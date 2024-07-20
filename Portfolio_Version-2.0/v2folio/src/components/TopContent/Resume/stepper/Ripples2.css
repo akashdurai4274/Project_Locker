@@ -1,0 +1,48 @@
+.ripple-dot {
+    position: absolute;
+    right: 0;
+}
+
+.ripple-circles {
+    position: absolute;
+    right: 24px;
+}
+
+.circle1,
+.circle2,
+.circle3 {
+    position: absolute;
+    border-radius: 50%;
+    border: 2px solid purple;
+    animation: ripple-animation 1.5s infinite;
+}
+
+.circle1 {
+    width: 16px;
+    height: 16px;
+    animation-delay: 0s;
+}
+
+.circle2 {
+    width: 32px;
+    height: 32px;
+    animation-delay: 0.5s;
+}
+
+.circle3 {
+    width: 48px;
+    height: 48px;
+    animation-delay: 1s;
+}
+
+@keyframes ripple-animation {
+    0% {
+        transform: scale(0.8);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(2);
+        opacity: 0;
+    }
+}
