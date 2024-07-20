@@ -10,8 +10,6 @@ import 'theme/color.dart';
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   SharedPreferences prefs = await SharedPreferences.getInstance();
-  String? token = prefs.getString('token');
-  runApp(MyApp(token: prefs.getString('token'),));
 }
 
 class MyApp extends StatelessWidget {
