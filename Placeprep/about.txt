@@ -1,1 +1,15 @@
-placeprep
+# Application Type: Mobile.
+
+# Application Name: Placeprep.
+
+# Title: Placement Preparation Application.
+
+# About: The E-Placement Preparation Application is designed to equip students with the tools and information needed for                 successful placement. It includes mathematical content, communication tips, and core technical components like DBMS,            networking, DSA, and OOPs, focusing on depth-first coding in Java.
+
+# Mission: Create a mobile application to guide students in placement preparation, offering essential knowledge and resources              to crack product-based company interviews.
+
+# Tech Stack: Frontend: Flutter
+              Backend : Node(Express)
+              Database: Mongo DB
+
+  
