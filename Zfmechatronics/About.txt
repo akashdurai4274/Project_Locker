@@ -1,4 +1,6 @@
-# Appliacation: Zfmechetronics.
+# Application Type: Mobile.
+
+# Application: Zfmechetronics.
 
 # Title: Machinery Maintenance Application
 
