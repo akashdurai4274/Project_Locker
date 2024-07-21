@@ -1,0 +1,16 @@
+# Application Type: Web.
+
+# Application Name: My Second Version of Portfolio.
+
+# Title: My Ads.
+
+# About:      The second version of my portfolio utilizes React and Tailwind CSS to create a responsive
+              and interactive experience. It showcases my latest projects, technical skills, and professional 
+              achievements, reflecting my proficiency in contemporary web development frameworks.
+
+# Mission:    Develop a modern and dynamic personal portfolio website using popular frameworks to showcase
+              projects and technical skills.
+
+# Tech Stack: Frontend: React
+              Backend: Node.js, Express
+              Database: MongoDB
