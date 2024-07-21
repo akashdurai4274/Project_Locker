@@ -1,1 +1,16 @@
-EMS
+# Application Type: Web.
+
+# Application Name: EMS.
+
+# Title: Employee Management System.
+
+# About: The EMS project aims to provide a robust solution for managing employee information and operations.
+         It uses the MERN stack to deliver a modern, responsive web application with comprehensive features
+         for employee management.
+
+# Mission: Develop a web-based Employee Management System (EMS) with enhanced features and efficient UI
+           using the MERN stack.
+
+# Tech Stack: Frontend: React
+              Backend: Node.js, Express.
+              Database: MongoDB.
