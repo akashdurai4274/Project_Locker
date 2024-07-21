@@ -2,7 +2,7 @@
 
 # Application Name: My Second Version of Portfolio.
 
-# Title: My Ads.
+# Title:      My Ads.
 
 # About:      The second version of my portfolio utilizes React and Tailwind CSS to create a responsive
               and interactive experience. It showcases my latest projects, technical skills, and professional 
