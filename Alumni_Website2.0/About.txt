@@ -1,1 +1,16 @@
-alumni
+# Application Type: Web.
+
+# Application Name: Agni Alumni Association.
+
+# Title:      Agni Alumni Association.
+
+# About:      This project focuses on improving the user interface and adding new backend features
+              to the alumni website. The goal is to create a more user-friendly and functional platform
+              for alumni to connect and engage with the college community.
+
+# Mission:    Develop the second version of Agni College's alumni website with enhanced UI and additional backend         
+              functionalities.
+
+# Tech Stack: Frontend: HTML, CSS, JS.
+              Backend : PHP.
+              Database: MY SQL.
