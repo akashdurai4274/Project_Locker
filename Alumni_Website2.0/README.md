@@ -1,2 +1,0 @@
-# AlumniProject
-Code is Wealth
