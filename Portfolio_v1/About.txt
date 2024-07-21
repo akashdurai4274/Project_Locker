@@ -1,0 +1,15 @@
+# Application Type: Web.
+
+# Application Name: First Version of Portfolio.
+
+# Title:      My Ads.
+
+# About:      The first version of my portfolio is built with HTML, CSS, JavaScript, and Bootstrap. 
+              It highlights my projects, skills, and achievements in a clean and accessible format,
+              demonstrating my ability to work with core web development technologies
+
+# Mission:    Create a personal portfolio website using foundational web technologies to showcase
+              projects and skills.
+
+# Tech Stack: Frontend: HTML, CSS, BOOTSTRAP, JS
+              
